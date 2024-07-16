@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>The Soccer Database</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+      }
+
+      header {
+        background-color: #0f106d;
+        color: #ffffff;
+        padding: 20px;
+        text-align: center;
+      }
+      footer {
+        background-color: #0f106d;
+        color: #ffffff;
+        padding: 20px;
+        text-align: center;
+      }      
+      h1 {
+        margin: 0;
+      }
+      #choice-grid {
+        background-color: #0f106d;
+        color: #ffffff;
+        display: grid;
+        grid-auto-flow: row;
+        grid-gap: 10px;
+        margin-top: 0px;
+      
+      }
+      .choice-button {
+        display: inline-flex;
+        justify-content: center;
+        align-items: center;
+        padding: 10px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        font-size: 16px;
+        text-align: center;
+        text-decoration: none;
+        color: #333;
+        color:  #ffffff;
+      }
+
+      .choice-button:hover {
+        background-color: #eee;
+      }
+      input[type="submit"] {
+        padding: 10px;
+        border-radius: 5px;
+        border: none;
+        background-color: #1870c2;
+        color: #fff;
+        cursor: pointer;
+      }
+
+      .detail-button {
+        display: inline-flex;
+        justify-content: center;
+        align-items: center;
+        padding: 10px;
+        border: none;
+        border-radius: 5px;
+        background-color: #1870c2;
+        color: #fff;
+        text-align: center;
+        text-decoration: none;
+      }
+    </style>
+
+
+  </head>
+  <body>
+    <div class="container">
+      <header>
+        <h1>The Soccer Database</h1>
+      </header>
+
+    <div id = "choice-grid">  
+        <p>
+          <a class="choice-button" href="{{ url_for('home')}}">Home</a> 
+          <a class="choice-button" href="{{ url_for('team')}}">Team Information</a> 
+          <a class="choice-button" href="{{ url_for('managedb')}}">Update Our Database</a> 
+         </p>
+    </div>
+    <div class = container>
+      <main>{% block container %} {% endblock %}</main>
+      <footer>
+        <p>
+          Hope you found the information you wanted! The source code for this soccer app is
+          <a href="https://github.com/dbdesign-assignments-spring2023/web-app-srikar-iyer.git"
+            >available on Github</a
+          >.
+        </p>
+      </footer>
+    </div>
+  </body>
+</html>
