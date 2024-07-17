@@ -1,0 +1,39 @@
+{% extends 'base.html' %}
+
+{% block container %}
+<h2>Soccer teams</h2>
+<p>This page shows the soccer teams for which information is available.</p>
+<p>If you team or player is not here, please feel free to update our database with new information using the update link above</p>     
+<form action="{{ url_for('team') }}" method="POST">
+    <label for="dropdown">Choose a team:</label>
+    <select id="dropdown" name="selected_team"> 
+        {% for doc in docs %}
+            <option value="{{ doc.team_name }}">{{ doc.team_name }}</option>
+        {% endfor %}
+    </select>
+    <input type="submit" value="Submit">
+</form>
+{% if selected_team %}
+    <h2>Players for {{ selected_team }}</h2>
+    <table>
+        <thead>
+            <th>Player Name</th>
+            <th>Jersey Number</th>
+            <th>Country</th>
+        </thead>
+        <tbody>
+            {% for player in players %}
+                {% if player.team_name == selected_team %}
+                    {% for lineup in player.lineup %}
+                        <tr>
+                            <td>{{ lineup.player_name }}</td> 
+                            <td>{{ lineup.jersey_number }}</td> 
+                            <td>{{ lineup.country.name }}</td>
+                        </tr>
+                    {% endfor %}
+                {% endif %}
+            {% endfor %}
+        </tbody>
+    </table>
+{% endif %}
+{% endblock %}
