@@ -1,0 +1,1001 @@
+id,name ,category ,price_tier,neighborhood ,opening_hours ,average_rating ,good_for_kids,created
+9738484405,Zizia W.D.J. Koch,Korean,expensive,Vinegar Hill,6:00,4,true,6/24/2022
+7780064239,Cistanthe maritima (Nutt.) Hershkovitz,Indian,expensive,Greenpoint,6:00,1,true,1/26/2023
+9198633260,Rinodina americana de Lesd.,Vietnamese,cheap,Greenpoint,6:00,5,true,7/16/2022
+6760616340,Orthotrichum pylaisii Brid.,Mexican,cheap,Red Hook,6:00,1,true,7/31/2022
+8774213865,Salix candida Flueggé ex Willd.,Greek,expensive,Williamsburg,6:00,3,true,2/17/2023
+5227188610,Pteris multifida Poir.,Brazilian,medium,SoHo,6:00,4,true,5/12/2022
+2344879323,Archidium alternifolium (Hedw.) Schimp.,Korean,cheap,Fort Greene,6:00,3,true,2/28/2023
+7813447689,Triteleiopsis palmeri (S. Watson) Hoover,French,cheap,Boerum HillCarroll Gardens,6:00,2,false,10/16/2022
+7765196359,Eucalyptus globulus Labill. ssp. bicostata (Maiden et al.) J.B. Kirkp.,French,cheap,Bushwick,6:00,3,true,7/22/2022
+7545486676,Epilobium oregonense Hausskn.,Ethiopian,medium,Vinegar Hill,6:00,4,true,12/4/2022
+8008570512,Zwackhiomyces Grube & Hafellner,Korean,medium,Fort Greene,6:00,4,true,12/21/2022
+7055764467,Allium macropetalum Rydb.,Indian,expensive,Nolita,6:00,1,true,8/30/2022
+9054689390,Linnaea borealis L. ssp. borealis,Vietnamese,medium,Red Hook,6:00,2,false,9/8/2022
+4586783044,Acrocomia vinifera Oersted,Korean,medium,Bushwick,6:00,1,true,7/15/2022
+3064400827,Asclepias tuberosa L. ssp. interior Woodson,Mexican,medium,DUMBO,6:00,4,false,10/29/2022
+0596788010,Silphium compositum Michx. var. reniforme (Raf. ex Nutt.) Torr. & A. Gray,Turkish,expensive,Cobble Hill,6:00,5,false,8/6/2022
+0023591684,Potentilla collina Wibel,Thai,cheap,Nolita,6:00,4,true,2/23/2023
+4854793228,Passiflora pallens Poepp. ex Masters,Japanese,medium,Williamsburg,6:00,2,true,10/23/2022
+1395612374,Solanum pumilum Dunal,Turkish,medium,Tribeca,6:00,2,true,12/19/2022
+0956709885,Teramnus P. Br.,Thai,expensive,Vinegar Hill,6:00,1,false,8/5/2022
+8760528753,Petractis Fr.,Mexican,cheap,Fort Greene,6:00,4,true,5/10/2022
+9383787082,Rhynchospora elliottii A. Dietr.,Indian,expensive,Bushwick,6:00,1,false,4/24/2022
+3381183117,Arabis lyallii S. Watson var. nubigena (J.F. Macbr. & Payson) Rollins,Japanese,medium,Vinegar Hill,6:00,3,false,5/25/2022
+2116677157,Carex adelostoma Krecz.,Mexican,medium,Bushwick,6:00,3,false,4/19/2022
+6953241799,Prunus eremophila Prigge,Indian,expensive,Williamsburg,6:00,1,false,10/17/2022
+5443240048,Cibotium ×heleniae D. Palmer,Japanese,expensive,Tribeca,6:00,2,false,12/13/2022
+8484770052,Leptogium contortum Sierk,Brazilian,expensive,Bushwick,6:00,5,true,1/9/2023
+2335949446,Triticum boeoticum Boiss. ssp. thaoudar (Reuter ex Hausskn.) Schiem.,Brazilian,expensive,Williamsburg,6:00,1,true,4/23/2022
+1457963949,Ipomopsis spicata (Nutt.) V.E. Grant ssp. spicata,Vietnamese,cheap,Fort Greene,6:00,2,false,4/6/2022
+9053366512,Cordylanthus pilosus A. Gray ssp. hansenii (Ferris) T.I. Chuang & Heckard,Moroccan,cheap,Boerum HillCarroll Gardens,6:00,5,false,6/17/2022
+2307402306,Aspicilia lesleyana Darbish.,Spanish,expensive,Cobble Hill,6:00,1,false,9/30/2022
+3607904448,Porpidia lowiana Gowan,Thai,cheap,Williamsburg,6:00,1,false,3/25/2022
+1439949263,Justicia turneri Hilsenb.,French,cheap,Boerum HillCarroll Gardens,6:00,3,true,3/15/2022
+1841549568,Poa hartzii Gandog. ssp. hartzii var. hartzii,Moroccan,expensive,Williamsburg,6:00,4,false,4/25/2022
+2101489244,Sloanea L.,Greek,expensive,DUMBO,6:00,3,false,2/23/2023
+5384040386,Bauhinia fassoglensis Kotschy ex Schweinf.,Ethiopian,expensive,DUMBO,6:00,3,true,8/12/2022
+1950032981,Eriogonum compositum Douglas ex Benth. var. lancifolium H. St. John & Warren,French,cheap,SoHo,6:00,3,false,6/28/2022
+9878778770,Guettarda elliptica Sw.,Turkish,medium,Vinegar Hill,6:00,3,true,8/23/2022
+4178689584,Panicum bulbosum Kunth,Moroccan,cheap,Bushwick,6:00,2,false,10/22/2022
+3897756730,Solanum pinnatisectum Dunal [excluded],Brazilian,expensive,Fort Greene,6:00,1,false,2/25/2023
+9267305441,Bruguiera parviflora (Roxb.) Wight & Arn. ex Griffith,Japanese,cheap,SoHo,6:00,1,false,10/9/2022
+6455389441,Sphagnum L.,Korean,cheap,Tribeca,6:00,1,true,7/18/2022
+6378136386,Kerria japonica (L.) DC.,Mexican,expensive,Boerum HillCarroll Gardens,6:00,2,false,9/26/2022
+9716500661,Stanleya pinnata (Pursh) Britton,Indian,medium,Greenpoint,6:00,4,false,1/6/2023
+7846811665,Galium L.,Greek,medium,Greenpoint,6:00,1,false,3/22/2022
+7754685051,Pimpinella anisum L.,Indian,expensive,Williamsburg,6:00,2,true,11/11/2022
+7893152605,Lobelia cardinalis L.,Brazilian,medium,Boerum HillCarroll Gardens,6:00,1,false,7/5/2022
+8881150654,Astragalus amphioxys A. Gray var. musimonum (Barneby) Barneby,Korean,medium,Bushwick,6:00,1,false,11/9/2022
+2387952790,Melicope sessilis (H. Lév.) T.G. Hartley & B.C. Stone,Mexican,medium,Bushwick,6:00,2,true,11/18/2022
+3099670642,Pyrenocollema halodytes (Nyl.) R.C. Harris,Lebanese,expensive,Bushwick,6:00,3,false,1/15/2023
+0456114556,Salvia davidsonii Greenm.,Ethiopian,expensive,Bushwick,6:00,2,true,4/14/2022
+7037237418,Cinclidium stygium Sw.,Japanese,expensive,Nolita,6:00,1,false,5/13/2022
+0498228703,Crypsis alopecuroides (Piller & Mitterp.) Schrad.,Mexican,expensive,Bushwick,6:00,1,true,4/19/2022
+6987102104,Cleome gynandra L.,Japanese,expensive,Bushwick,6:00,2,false,1/24/2023
+5974503759,Caltha natans Pall. ex Georgi,Chinese,medium,Greenpoint,6:00,3,false,2/8/2023
+0552311758,Eriophyllum confertiflorum (DC.) A. Gray,Thai,medium,Boerum HillCarroll Gardens,6:00,1,true,1/9/2023
+7166000600,Astragalus tephrodes A. Gray var. tephrodes,Chinese,cheap,Tribeca,6:00,4,true,2/7/2023
+3289283461,Tinantia anomala (Torr.) C.B. Clarke,French,cheap,Boerum HillCarroll Gardens,6:00,4,false,11/19/2022
+1721041486,Rudbeckia hirta L. var. pulcherrima Farw.,Chinese,medium,Greenpoint,6:00,2,false,12/2/2022
+8159461666,Nectouxia Kunth,Thai,expensive,Vinegar Hill,6:00,5,true,6/2/2022
+1080393110,Eleocharis olivacea Torr. var. reductiseta (Schuyler & Ferren) Schuyler & Ferren,Vietnamese,cheap,Cobble Hill,6:00,3,true,11/5/2022
+9864392042,Astragalus leucolobus S. Watson ex M.E. Jones,Spanish,expensive,Williamsburg,6:00,2,true,4/8/2022
+8325775181,Atriplex undulata (Moq.) D. Dietr.,Japanese,expensive,Tribeca,6:00,1,true,5/3/2022
+4729555929,Rhynchospora curtissii Britton,Chinese,expensive,Fort Greene,6:00,4,true,10/5/2022
+8869518124,Ampelopsis brevipedunculata (Maxim.) Trautv.,Turkish,medium,Williamsburg,6:00,5,false,6/14/2022
+6208825229,Polygonella polygama (Vent.) Engelm. & A. Gray,Chinese,expensive,Tribeca,6:00,5,false,10/3/2022
+8332636973,Astragalus pauperculus Greene,Thai,medium,Williamsburg,6:00,3,true,4/22/2022
+3663713733,Wigandia Kunth,Mexican,medium,Tribeca,6:00,1,false,1/12/2023
+7727711039,Nardus stricta L.,Turkish,medium,Greenpoint,6:00,2,false,6/16/2022
+9906344873,Deiregyne Schltr.,Moroccan,medium,SoHo,6:00,4,false,8/20/2022
+1280112476,Blennosperma nanum (Hook.) S.F. Blake var. robustum J.T. Howell,Moroccan,expensive,Greenpoint,6:00,3,false,3/23/2022
+2990074821,Isodendrion longifolium A. Gray,Turkish,medium,Tribeca,6:00,3,false,8/16/2022
+9807466431,Microlychnus epicorticis A. Funk,French,cheap,Vinegar Hill,6:00,1,true,7/24/2022
+0569457696,Gaura suffulta Engelm. ex A. Gray,Indian,cheap,Vinegar Hill,6:00,4,true,6/15/2022
+2709829703,Cupressus sempervirens L.,Japanese,cheap,Greenpoint,6:00,3,true,12/21/2022
+9872964025,Salix ×rubens Schrank (pro sp.),Chinese,expensive,Vinegar Hill,6:00,5,false,8/23/2022
+4324276552,Thelypteris pennata (Poir.) Morton,Mexican,medium,DUMBO,6:00,1,true,1/23/2023
+3705673351,Phemeranthus longipes (Wooton & Standl.) Kiger,Mexican,expensive,SoHo,6:00,1,false,12/5/2022
+7090985776,Buddleja sessiliflora Kunth,Korean,medium,Nolita,6:00,1,true,5/21/2022
+1626540993,Castilleja cusickii Greenm.,Greek,expensive,Boerum HillCarroll Gardens,6:00,4,true,3/27/2022
+7091964330,Asclepias pumila (A. Gray) Vail,Ethiopian,cheap,Williamsburg,6:00,3,false,7/9/2022
+0070329214,Clarkia imbricata F.H. Lewis & M.E. Lewis,Korean,expensive,SoHo,6:00,4,false,4/12/2022
+7101123090,Placynthium flabellosum (Tuck.) Zahlbr.,Italian,cheap,Fort Greene,6:00,1,true,9/26/2022
+3281228879,Lichenothelia intermixta Henssen,French,expensive,Boerum HillCarroll Gardens,6:00,3,true,10/10/2022
+1478545100,Esslingeriana idahoensis (Essl.) Hale & M.J. Lai,Mexican,medium,SoHo,6:00,4,true,11/20/2022
+2637609907,Eriosorus hispidulus (Kunze) Vareschi,Brazilian,expensive,Williamsburg,6:00,3,false,5/18/2022
+3031885791,Aegopodium L.,Spanish,expensive,Williamsburg,6:00,4,false,9/17/2022
+2185479563,Pueraria montana (Lour.) Merr. var. montana,Indian,cheap,Red Hook,6:00,3,false,10/11/2022
+4226949560,Ceratostigma plumbaginoides Bunge,Ethiopian,medium,Red Hook,6:00,2,false,6/2/2022
+9413199221,Astragalus collinus Douglas ex G. Don,Moroccan,expensive,DUMBO,6:00,4,false,4/3/2022
+6473270604,Acanthus spinosus L.,Korean,cheap,Greenpoint,6:00,2,true,1/31/2023
+3532250683,Heliotropium racemosum Rose & Standl.,Spanish,medium,Fort Greene,6:00,3,true,8/9/2022
+2564797245,Bromus rubens L.,French,expensive,Nolita,6:00,3,false,11/27/2022
+9644686446,Scleria pterota C. Presl ex C.B. Clarke,Greek,cheap,Boerum HillCarroll Gardens,6:00,1,true,2/20/2023
+4595245742,Celtis lindheimeri Engelm. ex K. Koch,Turkish,medium,Nolita,6:00,1,false,11/6/2022
+7925914580,Chrysothamnus viscidiflorus (Hook.) Nutt. ssp. viscidiflorus,Japanese,medium,Cobble Hill,6:00,5,false,1/17/2023
+9137052322,Aralia humilis Cav.,Ethiopian,expensive,Boerum HillCarroll Gardens,6:00,5,false,4/3/2022
+8645999188,Potentilla glandulosa Lindl. ssp. ashlandica (Greene) D.D. Keck,Italian,medium,DUMBO,6:00,3,false,7/14/2022
+7288438651,Astrothelium Eschw.,Ethiopian,expensive,Nolita,6:00,1,true,5/12/2022
+4792603412,Heterodermia speciosa (Wulfen) Trevis.,French,medium,Williamsburg,6:00,2,false,8/9/2022
+3491224179,Vicia fulgens Battand.,Indian,cheap,Vinegar Hill,6:00,4,false,9/12/2022
+0125727186,Oncophorus (Brid.) Brid.,Spanish,expensive,Vinegar Hill,6:00,3,false,10/25/2022
+2439775525,Hedeoma plicata Torr.,Lebanese,expensive,SoHo,6:00,2,true,11/14/2022
+7447013951,Gaylussacia ursina (M.A. Curtis) Torr. & A. Gray ex A. Gray,Korean,expensive,DUMBO,6:00,5,true,2/18/2023
+8643674575,Prunus serotina Ehrh.,French,expensive,Bushwick,6:00,4,false,12/24/2022
+8875951497,Phacelia parishii A. Gray,Japanese,expensive,Fort Greene,6:00,2,true,11/16/2022
+0717484432,Triodanis perfoliata (L.) Nieuwl.,Brazilian,cheap,Boerum HillCarroll Gardens,6:00,3,true,10/13/2022
+5883420281,Caloplaca nivalis (Körb.) Th. Fr.,Turkish,expensive,Boerum HillCarroll Gardens,6:00,1,false,10/11/2022
+6696617213,Phoradendron racemosum (Aubl.) Krug & Urb.,Thai,cheap,Williamsburg,6:00,4,true,12/8/2022
+7508687604,Aspicilia contigua (Lynge) J.W. Thomson,Chinese,medium,Fort Greene,6:00,5,true,9/15/2022
+1658291859,Gamochaeta americana (Mill.) Weddell,Japanese,expensive,DUMBO,6:00,2,true,11/15/2022
+8847625629,Rinodina applanata H. Magn.,Thai,cheap,Tribeca,6:00,4,false,8/20/2022
+0749726466,Rubus randolphiorum L.H. Bailey,Vietnamese,cheap,Nolita,6:00,5,true,9/9/2022
+0748445420,Brickellia hinckleyi Standl.,Italian,cheap,DUMBO,6:00,4,true,10/26/2022
+1913253023,Passiflora tarminiana Coppens & V.E. Barney,Mexican,expensive,Bushwick,6:00,2,true,3/12/2022
+2029283622,Cladonia grayi G. Merr. ex Sandst.,Thai,cheap,Tribeca,6:00,3,false,6/12/2022
+3260292594,Carex aggregata Mack.,Spanish,medium,Tribeca,6:00,2,true,7/29/2022
+3027073109,Rosa blanda Aiton var. blanda,Chinese,medium,Cobble Hill,6:00,5,true,11/6/2022
+9096424387,Phacelia pulchella A. Gray,Moroccan,cheap,Boerum HillCarroll Gardens,6:00,1,false,9/2/2022
+5893647424,Erythronium citrinum S. Watson,Thai,expensive,Williamsburg,6:00,5,false,12/8/2022
+3494877483,Heterocodon Nutt.,Ethiopian,cheap,SoHo,6:00,4,false,1/25/2023
+5821799279,Hesperaloe funifera (Lem.) Trel.,Indian,cheap,Fort Greene,6:00,2,false,12/8/2022
+5302518546,Cardamine oligosperma Nutt. var. oligosperma,Thai,cheap,Tribeca,6:00,5,false,2/12/2023
+1519202881,Tetrachne dregei Nees,Brazilian,expensive,Nolita,6:00,4,true,4/15/2022
+9886315652,Cladonia sobolescens Nyl. ex Vain.,Mexican,medium,Cobble Hill,6:00,3,false,8/10/2022
+4002766594,Packera insulae-regalis R.R. Kowal,Japanese,expensive,Cobble Hill,6:00,2,true,12/3/2022
+5083153149,Cyanea solenocalyx Hillebr.,Ethiopian,cheap,SoHo,6:00,3,true,9/7/2022
+9593146172,Chrysothamnus viscidiflorus (Hook.) Nutt. ssp. puberulus (D.C. Eaton) H.M. Hall & Clem.,French,expensive,Boerum HillCarroll Gardens,6:00,3,false,10/13/2022
+4136639376,Pennisetum setaceum (Forssk.) Chiov.,Mexican,cheap,Williamsburg,6:00,1,false,5/25/2022
+1579632890,Dysphania aristata (L.) Mosyakin & Clemants,Brazilian,expensive,DUMBO,6:00,4,false,4/8/2022
+6449192445,Phlox ×glutinosa Buckley (pro sp.),Italian,expensive,SoHo,6:00,2,true,5/24/2022
+5190448266,Selaginella oregana D.C. Eaton,Chinese,medium,SoHo,6:00,1,true,4/2/2022
+1604849126,Antrophyum lanceolatum (L.) Kaulf.,Brazilian,medium,Boerum HillCarroll Gardens,6:00,2,true,9/29/2022
+0651839505,Impatiens noli-tangere L.,Japanese,expensive,SoHo,6:00,4,true,7/3/2022
+7252087859,Thelypteris balbisii (Spreng.) Ching,Greek,cheap,Williamsburg,6:00,1,false,7/27/2022
+0084482966,Crataegus dallasiana Sarg.,Thai,cheap,SoHo,6:00,1,true,11/19/2022
+8759670541,Prunus angustifolia Marshall,French,cheap,Bushwick,6:00,5,true,12/31/2022
+8917621104,Corispermum ochotense Ignatov var. ochotense,Lebanese,expensive,SoHo,6:00,5,true,6/4/2022
+6015333839,Xanthoria (Fr.) Th. Fr.,Greek,expensive,Red Hook,6:00,1,true,8/21/2022
+7287767430,Xylosma buxifolia A. Gray,Thai,medium,Bushwick,6:00,5,true,12/4/2022
+7964083562,Echinomastus warnockii (L.D. Benson) Glass & R.A. Foster,Italian,cheap,Williamsburg,6:00,4,false,2/24/2023
+2951617216,Jatropha cardiophylla (Torr.) Müll. Arg.,Brazilian,cheap,Bushwick,6:00,1,false,10/21/2022
+9633004861,Peltigera elisabethae Gyel.,Chinese,expensive,SoHo,6:00,1,false,8/6/2022
+1708468943,Leptosiphon nuttallii (A. Gray) J.M. Porter & L.A. Johnson,Turkish,expensive,Vinegar Hill,6:00,2,true,7/8/2022
+9448830602,Pluchea carolinensis (Jacq.) G. Don,Vietnamese,expensive,SoHo,6:00,2,true,12/23/2022
+1057595616,Centromadia pungens (Hook. & Arn.) Greene ssp. laevis (D.D. Keck) B.G. Baldw.,Indian,expensive,SoHo,6:00,5,true,5/29/2022
+8120349121,Ludwigia peruviana (L.) H. Hara,Greek,medium,Cobble Hill,6:00,3,false,1/6/2023
+3414769530,Lagenaria siceraria (Molina) Standl.,Vietnamese,cheap,Bushwick,6:00,3,true,4/18/2022
+3992109607,Lecidea marylandensis H. Magn.,Greek,medium,Boerum HillCarroll Gardens,6:00,2,false,11/1/2022
+7604909280,Psora pacifica Timdal,Greek,cheap,Boerum HillCarroll Gardens,6:00,4,true,4/13/2022
+1678193038,Eriogonum ternatum Howell,Italian,cheap,DUMBO,6:00,3,true,1/6/2023
+5344757271,Salix sessilifolia Nutt.,French,medium,Nolita,6:00,5,true,4/26/2022
+6584678148,Cinclidium stygium Sw.,Ethiopian,cheap,Red Hook,6:00,5,false,1/1/2023
+9514332539,Hesperocyparis goveniana (Gordon) Bartel,Ethiopian,medium,Fort Greene,6:00,1,false,7/20/2022
+6488562290,Rhynchospora gigantea Link,Indian,cheap,Williamsburg,6:00,2,false,4/18/2022
+9959395219,Garrya congdonii Eastw.,Italian,expensive,Cobble Hill,6:00,3,true,3/23/2022
+3061700404,Eriogonum ammophilum Reveal,Moroccan,expensive,Cobble Hill,6:00,2,false,4/24/2022
+6828247981,Amsinckia lunaris J.F. Macbr.,Indian,medium,Fort Greene,6:00,5,true,7/9/2022
+7367643983,Pityopsis graminifolia (Michx.) Nutt. var. aequilifolia Semple & F.D. Bowers,Thai,expensive,Vinegar Hill,6:00,2,true,1/17/2023
+6512119932,Lecidea extenuata Vain.,Vietnamese,cheap,Nolita,6:00,3,false,7/26/2022
+3530934887,Rhytidiadelphus triquetrus (Hedw.) Warnst.,Greek,expensive,SoHo,6:00,3,false,9/28/2022
+0701992255,Betula nana L.,Indian,cheap,Nolita,6:00,3,true,8/20/2022
+8698838944,Distichium inclinatum (Hedw.) Bruch & Schimp.,Thai,cheap,Greenpoint,6:00,2,false,2/5/2023
+2406572005,"Mimulus filicifolius Sexton, K.G. Ferris & Schoenig",Korean,expensive,Boerum HillCarroll Gardens,6:00,5,true,4/29/2022
+2632437962,Rhynchosia tomentosa (L.) Hook. & Arn.,Vietnamese,medium,Red Hook,6:00,1,true,1/27/2023
+6116345883,Bartramidula wilsonii Bruch & Schimp.,Mexican,cheap,Red Hook,6:00,5,true,3/24/2022
+4282412968,Plagiobothrys lithocaryus (Greene ex A. Gray) I.M. Johnst.,Vietnamese,expensive,Bushwick,6:00,3,true,6/11/2022
+9574089738,Cylindropuntia kleiniae (DC.) F.M. Knuth,Italian,medium,DUMBO,6:00,5,true,2/18/2023
+1787438864,Hylocereus undatus (Haw.) Britton & Rose,Chinese,expensive,Fort Greene,6:00,4,true,3/20/2022
+7969087930,Fouquieria splendens Engelm.,Greek,cheap,DUMBO,6:00,4,true,5/5/2022
+7660020838,Draba petrophila Greene,Turkish,expensive,Boerum HillCarroll Gardens,6:00,5,false,5/9/2022
+6219364821,Cryptogramma crispa (L.) R. Br. ex Hook. [excluded],French,cheap,Red Hook,6:00,5,false,10/19/2022
+1441051104,Lepuropetalon Elliott,Vietnamese,medium,Fort Greene,6:00,2,true,5/2/2022
+9649635815,Stellaria longifolia Muhl. ex Willd. var. longifolia,Italian,cheap,Greenpoint,6:00,5,true,6/20/2022
+1583110291,Lathyrus jepsonii Greene,Chinese,cheap,Vinegar Hill,6:00,1,false,8/7/2022
+5772212095,Vitex trifolia L.,Brazilian,medium,Fort Greene,6:00,5,false,5/28/2022
+8047274546,Erysimum capitatum (Douglas ex Hook.) Greene var. angustatum (Greene) G. Rossb.,Korean,cheap,Nolita,6:00,5,false,4/24/2022
+4267036209,Vallesia glabra (Cav.) Link,Indian,cheap,Red Hook,6:00,1,true,5/18/2022
+0467199019,Havardia Small,Lebanese,expensive,Tribeca,6:00,3,true,9/14/2022
+9451858415,Chenopodium L.,French,expensive,Red Hook,6:00,2,true,9/17/2022
+8984063843,Vaccinium formosum Andrews,Lebanese,medium,Williamsburg,6:00,1,true,10/4/2022
+4867239771,Tropaeolum peltophorum Benth.,Chinese,medium,Greenpoint,6:00,4,false,6/21/2022
+2874928933,Eriophorum ×pylaieanum Raymond,Indian,medium,Tribeca,6:00,3,false,4/25/2022
+7988962035,Arthothelium hallii (Tuck.) Zahlbr.,Thai,medium,SoHo,6:00,2,false,10/26/2022
+7898762835,Platythelys Garay,Brazilian,expensive,Fort Greene,6:00,5,true,9/27/2022
+8910245611,Arabis repanda S. Watson,Thai,expensive,Greenpoint,6:00,2,true,9/2/2022
+1316667197,×Dupoa labradorica (Steud.) J. Cay. & Darbyshire,Vietnamese,cheap,Boerum HillCarroll Gardens,6:00,4,true,3/30/2022
+6408815073,Thelocarpon laureri (Flotow) Nyl.,Lebanese,cheap,Boerum HillCarroll Gardens,6:00,5,true,10/25/2022
+0394147936,Achnatherum eminens (Cav.) Barkworth,Chinese,medium,Nolita,6:00,4,false,9/22/2022
+0554703335,Consolida pubescens (DC.) Soó,Lebanese,medium,Red Hook,6:00,5,true,1/30/2023
+6994264033,Eriogonum lonchophyllum Torr. & A. Gray var. intermontanum (Reveal) Reveal,Turkish,cheap,Nolita,6:00,2,true,10/27/2022
+7308889696,Lupinus excubitus M.E. Jones var. excubitus,French,cheap,Williamsburg,6:00,5,true,4/19/2022
+1784924555,Callirhoe pedata (Nutt. ex Hook.) A. Gray,Brazilian,expensive,Nolita,6:00,3,true,2/11/2023
+6606559421,Ischaemum L.,French,expensive,Tribeca,6:00,1,true,1/23/2023
+2849828165,Phleum paniculatum Huds.,Lebanese,medium,Nolita,6:00,1,false,4/1/2022
+5838161876,Lomatium howellii (S. Watson) Jeps.,Indian,expensive,Red Hook,6:00,5,true,1/6/2023
+7895886312,Phaeophyscia leana (Tuck.) Essl.,Korean,expensive,Greenpoint,6:00,5,true,11/12/2022
+2895072787,Sedum reflexum L.,Vietnamese,medium,Vinegar Hill,6:00,1,true,11/4/2022
+7013635065,Beta vulgaris L. ssp. cicla (L.) W.D.J. Koch,Thai,cheap,Williamsburg,6:00,1,true,6/4/2022
+0739919547,Clarkia biloba (Durand) A. Nelson & J.F. Macbr. ssp. australis F.H. Lewis & M.E. Lewis,Chinese,expensive,Red Hook,6:00,2,false,7/9/2022
+6709716198,Galium mexicanum Kunth ssp. mexicanum,Greek,medium,Vinegar Hill,6:00,2,true,8/1/2022
+1479819336,Cyrtandra ×alnea H. St. John (pro sp.),Thai,expensive,Greenpoint,6:00,5,true,6/19/2022
+8902782557,Yucca harrimaniae Trel.,Greek,medium,Nolita,6:00,5,false,6/28/2022
+7191276037,Asimina incana (W. Bartram) Exell,Lebanese,medium,Nolita,6:00,5,false,1/24/2023
+9768791799,Lecidea mutabilis Fée,Indian,cheap,DUMBO,6:00,4,true,8/18/2022
+3392336939,Amblyopyrum Eig,Spanish,expensive,Fort Greene,6:00,2,true,2/26/2023
+4571105282,Carex subnigricans Stacey,Japanese,expensive,Nolita,6:00,3,false,9/28/2022
+2043675869,Holcus lanatus L.,Ethiopian,cheap,Tribeca,6:00,3,false,12/10/2022
+7119761838,Prenanthes alba L.,Indian,medium,Greenpoint,6:00,3,false,4/3/2022
+2014947430,Sidalcea multifida Greene,Ethiopian,medium,Fort Greene,6:00,4,false,10/7/2022
+5042113908,Pseudoleskeella Kindb.,Greek,medium,Nolita,6:00,2,false,11/17/2022
+4951440156,Euphorbia macropus (Klotzsch & Garcke) Boiss.,Mexican,expensive,Cobble Hill,6:00,2,false,5/22/2022
+1602532974,Caulanthus crassicaulis (Torr.) S. Watson var. crassicaulis,Indian,cheap,Greenpoint,6:00,2,false,10/4/2022
+0491287143,Penstemon comarrhenus A. Gray,Chinese,expensive,Red Hook,6:00,5,true,9/9/2022
+0427448212,Lomatium tamanitchii Darrach & Thie,Moroccan,cheap,Vinegar Hill,6:00,1,true,7/17/2022
+1275301959,Arthonia incarnata Fr. ex Almq.,Vietnamese,medium,Red Hook,6:00,1,true,9/6/2022
+7446805439,Lycaste barringtoniae (Sm.) Lindl.,Turkish,medium,Vinegar Hill,6:00,5,true,4/20/2022
+1067083456,Iris ×vinicolor Small (pro sp.) [excluded],Turkish,medium,Fort Greene,6:00,2,false,10/9/2022
+8936617664,Navarretia myersii Allen & Day,Brazilian,expensive,Bushwick,6:00,1,true,2/15/2023
+5640715758,Amsonia longiflora Torr. var. salpignantha (Woodson) S.P. McLaughlin,Mexican,expensive,SoHo,6:00,4,true,12/10/2022
+0187374058,Mirabilis longiflora L. var. wrightiana (A. Gray ex Britton & Kearney) Kearney & Peebles,Chinese,medium,Tribeca,6:00,2,true,3/28/2022
+0735519218,Drymaria effusa A. Gray var. effusa,Turkish,expensive,Fort Greene,6:00,1,false,7/27/2022
+4746763070,Fragaria virginiana Duchesne ssp. grayana (Vilm. ex J. Gay) Staudt,Greek,cheap,Bushwick,6:00,2,false,12/21/2022
+7733778468,Cananga odorata (Lam.) Hook. f. & Thomson,Turkish,cheap,Vinegar Hill,6:00,4,false,12/18/2022
+6139259126,Chimaphila umbellata (L.) W.P.C. Barton ssp. acuta (Rydb.) Hultén,Brazilian,medium,Williamsburg,6:00,5,true,5/29/2022
+0761715592,Leptochloa digitata (R. Br.) Domin,Chinese,cheap,Tribeca,6:00,4,false,7/6/2022
+7402550362,Physalis caudella Standl.,Italian,cheap,Williamsburg,6:00,5,false,10/5/2022
+8234154524,Carex angustata Boott,Chinese,medium,Tribeca,6:00,5,false,10/5/2022
+8898797141,Thelypteris puberula (Baker) Morton var. sonorensis A.R. Sm.,French,expensive,Bushwick,6:00,2,true,4/18/2022
+5159229981,Penstemon anguineus Eastw.,Spanish,expensive,Williamsburg,6:00,4,false,2/2/2023
+9034510077,Spiranthes tuberosa Raf.,Ethiopian,cheap,Nolita,6:00,4,false,9/30/2022
+7296258497,Piloblephis Raf.,Mexican,expensive,DUMBO,6:00,5,false,12/23/2022
+0064489205,"Prenanthes carrii Singhurst, O'Kennon & W.C. Holmes",Japanese,expensive,Nolita,6:00,3,true,7/12/2022
+8482201123,Anacolia laevisphaera (Taylor) Flow.,Moroccan,expensive,Fort Greene,6:00,4,false,11/25/2022
+4226452216,Pterocarya stenoptera C. DC.,Thai,medium,Bushwick,6:00,3,false,8/3/2022
+2492135926,Calicium lenticulare Ach.,Italian,medium,Tribeca,6:00,3,true,2/2/2023
+3170382047,Carex gynocrates Wormsk. ex Drejer,Spanish,medium,Tribeca,6:00,1,true,5/30/2022
+8776430995,Pectis cylindrica (Fernald) Rydb.,Korean,expensive,Red Hook,6:00,5,true,2/19/2023
+5894914655,Glyceria nubigena W.A. Anderson,French,cheap,DUMBO,6:00,5,false,2/19/2023
+0271198273,Justicia wrightii A. Gray,Thai,cheap,Fort Greene,6:00,5,false,11/11/2022
+0869692046,Litsea Lam.,Thai,cheap,Vinegar Hill,6:00,5,false,8/24/2022
+7982894941,Pilea rivoriae Weddell,Japanese,medium,Nolita,6:00,4,true,4/8/2022
+7935990794,Cordylanthus Nutt. ex Benth.,Spanish,medium,Boerum HillCarroll Gardens,6:00,2,false,11/24/2022
+5864325503,Quercus ×subconvexa Tucker,Indian,expensive,SoHo,6:00,3,false,5/17/2022
+7166314818,Potentilla thurberi A. Gray,Thai,cheap,Bushwick,6:00,3,false,6/25/2022
+9331739028,Mimulus montioides A. Gray,Thai,cheap,Vinegar Hill,6:00,5,false,11/19/2022
+5740148014,Exocarpos gaudichaudii A. DC.,Vietnamese,expensive,Cobble Hill,6:00,5,true,2/3/2023
+4444332166,Psorothamnus kingii (S. Watson) Barneby,Lebanese,cheap,Boerum HillCarroll Gardens,6:00,5,false,9/23/2022
+0063191628,Astragalus beckwithii Torr. & A. Gray var. purpureus M.E. Jones,Korean,expensive,DUMBO,6:00,3,false,2/9/2023
+3528603054,Sonchus arvensis L. ssp. arvensis,Brazilian,cheap,Vinegar Hill,6:00,4,true,9/18/2022
+7282289964,Pertusaria xanthodes Müll. Arg.,Italian,cheap,Greenpoint,6:00,2,true,10/24/2022
+3544780828,Canbya candida Parry ex A. Gray,Mexican,expensive,Greenpoint,6:00,2,true,9/12/2022
+8063613384,Ancistrocactus brevihamatus (Engelm.) Britton & Rose var. brevihamatus ,Greek,medium,Nolita,6:00,4,true,11/24/2022
+6657090706,Securigera varia (L.) Lassen,Indian,medium,Fort Greene,6:00,4,true,1/20/2023
+6007797376,Cordylanthus pilosus A. Gray ssp. pilosus,French,cheap,SoHo,6:00,3,false,4/15/2022
+9889598779,Passiflora vitifolia Kunth,Thai,medium,SoHo,6:00,2,true,4/8/2022
+5815562858,Galium grayanum Ehrend. var. nanum Dempster & Ehrend.,French,expensive,Cobble Hill,6:00,1,true,3/13/2022
+0875177115,Rhynchospora chalarocephala Fernald & Gale,Lebanese,cheap,Williamsburg,6:00,4,false,6/29/2022
+4533219756,Echinoplaca intercedens Vezda,Korean,expensive,Cobble Hill,6:00,3,false,11/29/2022
+4156180980,Malaxis soulei L.O. Williams,Japanese,expensive,Bushwick,6:00,3,true,8/24/2022
+2438339381,Andreaea Hedw.,Ethiopian,expensive,Fort Greene,6:00,3,true,11/1/2022
+7713175075,Tripogon Roem. & Schult.,Thai,medium,Boerum HillCarroll Gardens,6:00,1,false,6/2/2022
+9693233425,Eleusine tristachya (Lam.) Lam.,French,cheap,Greenpoint,6:00,4,false,8/4/2022
+8562528838,Symphytum asperum Lepechin,Chinese,expensive,Tribeca,6:00,4,true,9/30/2022
+6525951909,Pteroglossaspis Rehb. f.,Vietnamese,medium,Boerum HillCarroll Gardens,6:00,1,false,9/23/2022
+2543940553,Phoenix loureirii Kunth,Mexican,medium,Vinegar Hill,6:00,4,true,5/10/2022
+8393739993,Eleocharis parishii Britton,Vietnamese,medium,Tribeca,6:00,4,true,8/3/2022
+7610997757,Rinodina destituta (Nyl.) Zahlbr.,Vietnamese,medium,Greenpoint,6:00,1,true,1/29/2023
+2309762946,Bartonia paniculata (Michx.) Muhl. ssp. paniculata,Italian,cheap,DUMBO,6:00,5,false,9/2/2022
+8797811912,Pteris ×hillebrandii Copeland,Vietnamese,expensive,Red Hook,6:00,3,true,8/24/2022
+0546353673,Amaranthus dubius Mart. ex Thell.,Ethiopian,medium,Boerum HillCarroll Gardens,6:00,3,true,11/5/2022
+4366528843,Pertusaria sinusmexicani Dibben,Greek,expensive,Greenpoint,6:00,2,false,7/31/2022
+5374519794,Homolepis Chase,Chinese,medium,Boerum HillCarroll Gardens,6:00,5,false,8/27/2022
+5783362441,Pohlia cruda (Hedw.) Lindb.,Lebanese,expensive,Tribeca,6:00,4,false,1/28/2023
+8523498400,Acanthocereus tetragonus (L.) Humm.,Japanese,cheap,Nolita,6:00,1,false,7/21/2022
+8885483429,Carex sheldonii Mack.,Italian,cheap,DUMBO,6:00,4,false,4/26/2022
+2609894929,Ochrosia compta K. Schum.,Spanish,cheap,Williamsburg,6:00,4,true,11/26/2022
+9929071482,Coreopsis grandiflora Hogg ex Sweet var. saxicola (Alexander) E.B. Sm.,Mexican,medium,DUMBO,6:00,1,true,10/10/2022
+7453156890,Chaenotheca furfuracea (L.) Tibell,Italian,expensive,Cobble Hill,6:00,1,false,3/21/2022
+3492307485,Eriogonum microthecum Nutt. var. panamintense S. Stokes,Spanish,medium,SoHo,6:00,4,true,2/18/2023
+3105778616,Rhamnus alnifolia L'Hér.,Thai,medium,Tribeca,6:00,4,false,6/22/2022
+1103229737,Diarrhena obovata (Gleason) Brandenburg,French,medium,Williamsburg,6:00,4,true,11/5/2022
+2784648338,Zigadenus elegans Pursh ssp. elegans,Lebanese,cheap,Tribeca,6:00,3,false,11/11/2022
+8906916892,Bahia bigelovii A. Gray,Turkish,cheap,Bushwick,6:00,1,false,7/12/2022
+1398317837,Cirsium altissimum (L.) Hill,Greek,cheap,SoHo,6:00,5,true,6/5/2022
+7113034403,Phacelia utahensis J. Voss,Thai,medium,DUMBO,6:00,1,true,8/14/2022
+6033229894,Astragalus sinicus L.,Lebanese,expensive,Boerum HillCarroll Gardens,6:00,4,false,12/4/2022
+3109229625,Evolvulus arizonicus A. Gray,Thai,expensive,Vinegar Hill,6:00,1,false,2/4/2023
+2629278808,Leprocaulon gracilescens (Nyl.) Lamb & Ward,Spanish,expensive,Cobble Hill,6:00,3,false,11/20/2022
+1892905388,Rhytidophyllum auriculatum Hook.,Brazilian,cheap,Nolita,6:00,2,false,10/2/2022
+8513545449,Rubus ×paracaulis L.H. Bailey (pro sp.),Spanish,cheap,Greenpoint,6:00,3,false,12/31/2022
+0726912360,Glyceria septentrionalis Hitchc.,Thai,expensive,Boerum HillCarroll Gardens,6:00,5,false,4/13/2022
+5919679778,Allium tribracteatum Torr.,Brazilian,expensive,Cobble Hill,6:00,5,true,1/1/2023
+6920007215,Puccinellia tenella (Lange) Holmb. ex A.E. Porsild,Greek,medium,Bushwick,6:00,5,true,4/6/2022
+1792381034,Physconia detersa (Nyl.) Poelt,Ethiopian,expensive,Fort Greene,6:00,3,false,11/10/2022
+7574210578,Moehringia macrophylla (Hook.) Fenzl,Spanish,cheap,Fort Greene,6:00,2,true,1/4/2023
+5410459474,Carex macrocephala Willd. ex Spreng.,Greek,expensive,Boerum HillCarroll Gardens,6:00,5,false,3/17/2022
+0684198835,Calystegia sepium (L.) R. Br. ssp. americana (Sims) Brummitt,Italian,medium,Red Hook,6:00,5,true,6/30/2022
+9877701545,Syringa L.,French,expensive,Bushwick,6:00,2,true,10/30/2022
+1712204254,Leontodon hispidus L. ssp. hispidus,Brazilian,medium,Fort Greene,6:00,3,false,3/16/2022
+9890962365,Dryopteris filix-mas (L.) Schott,Japanese,medium,Cobble Hill,6:00,5,false,11/17/2022
+9641623966,Hypnum cupressiforme Hedw. var. julaceum Brid.,Lebanese,cheap,Greenpoint,6:00,4,false,5/8/2022
+3274750603,Dichanthelium acuminatum (Sw.) Gould & C.A. Clark var. fasciculatum (Torr.) Freckmann,Indian,expensive,Bushwick,6:00,1,true,5/1/2022
+9999214584,Elymus elymoides (Raf.) Swezey,Japanese,expensive,Williamsburg,6:00,1,false,2/19/2023
+1631664980,Carex ×subimpressa Clokey (pro sp.),Moroccan,expensive,Tribeca,6:00,1,true,7/18/2022
+8153710486,Pisum syriacum (A. Berger) Lehman,Greek,expensive,Boerum HillCarroll Gardens,6:00,3,true,10/9/2022
+7599595848,Nemastylis tenuis (Herb.) Benth. ssp. pringlei (S. Watson) Goldblatt,Lebanese,expensive,DUMBO,6:00,3,false,1/20/2023
+9249200595,Wyethia ×magna A. Nelson (pro sp.),Japanese,expensive,Fort Greene,6:00,3,false,9/7/2022
+2617219100,Landoltia D.H. Les & D.J. Crawford,Ethiopian,medium,Nolita,6:00,1,true,8/16/2022
+8338537748,Didymodon rigidulus Hedw. var. gracilis (Schleich. ex Hook. & Grev.) R.H. Zander,French,expensive,SoHo,6:00,1,false,7/25/2022
+7733845246,Phellodendron amurense Rupr.,Brazilian,medium,Nolita,6:00,4,true,7/21/2022
+7873114678,Aralia californica S. Watson,French,medium,Cobble Hill,6:00,1,false,7/9/2022
+2915113122,Mimulus angustifolius (Greene) A.L. Grant,Vietnamese,medium,Tribeca,6:00,2,false,1/16/2023
+9101917595,Eleocharis palustris (L.) Roem. & Schult. var. vigens L.H. Bailey,Moroccan,medium,Red Hook,6:00,5,false,10/19/2022
+2848619082,Lepidium sordidum A. Gray,Turkish,expensive,Greenpoint,6:00,2,true,1/16/2023
+7166032553,Woodsia ×maxonii R. Tryon,Turkish,cheap,Tribeca,6:00,1,false,12/1/2022
+5375223600,Penstemon albomarginatus M.E. Jones,Moroccan,medium,Fort Greene,6:00,5,false,4/23/2022
+3806431914,Melochia umbellata (Houtt.) Stapf,Italian,cheap,Boerum HillCarroll Gardens,6:00,5,true,8/25/2022
+1961092263,Croton texensis (Klotzsch) Müll. Arg. var. texensis,French,medium,SoHo,6:00,5,false,9/4/2022
+4736094311,Mentzelia albescens (Gillies & Arn.) Griseb.,Chinese,cheap,Tribeca,6:00,4,true,6/14/2022
+0525115862,Miscanthus Andersson,Indian,medium,Red Hook,6:00,3,false,3/9/2022
+3048580077,Notocactus (K.M. Schum.) Backeb. & F.M. Knuth,Indian,cheap,Vinegar Hill,6:00,1,true,7/13/2022
+5747736221,Robinia hispida L. var. fertilis (Ashe) R.T. Clausen,Chinese,medium,Cobble Hill,6:00,1,false,2/2/2023
+6331793283,Astragalus obscurus S. Watson,Turkish,expensive,Greenpoint,6:00,4,true,1/31/2023
+6887330482,Atriplex parryi S. Watson,Turkish,cheap,DUMBO,6:00,1,true,9/5/2022
+2823474455,Lycium ferocissimum Miers,Brazilian,expensive,Tribeca,6:00,3,true,5/25/2022
+8312285148,Rauvolfia vomitoria Afzelius,French,medium,Vinegar Hill,6:00,3,false,4/23/2022
+8565278328,Acacia pendula A. Cunn. ex G. Don,French,cheap,DUMBO,6:00,5,true,11/18/2022
+8908747796,Allium yosemitense Eastw.,Turkish,cheap,Boerum HillCarroll Gardens,6:00,2,false,4/1/2022
+0984365206,Zornia bracteata Walter ex J.F. Gmel.,Turkish,cheap,Boerum HillCarroll Gardens,6:00,1,true,6/8/2022
+5303214729,Selaginella mutica D.C. Eaton ex Underw.,Italian,cheap,Greenpoint,6:00,2,false,7/3/2022
+9040566917,Brodiaea matsonii R.E. Preston,Brazilian,expensive,Vinegar Hill,6:00,5,false,2/16/2023
+0784622833,Rhamnus davurica Pall. ssp. davurica,Indian,medium,Boerum HillCarroll Gardens,6:00,1,true,10/9/2022
+8904212634,Echinochloa turneriana (Domin) J.M. Black,Japanese,cheap,Bushwick,6:00,2,true,3/14/2022
+5066324607,Oxalis stricta L.,Turkish,expensive,Bushwick,6:00,2,true,5/9/2022
+8789371674,Silene virginica L. var. robusta Strausbaugh & Core,Thai,medium,Red Hook,6:00,1,true,6/25/2022
+8597823992,Anemone richardsonii Hook.,Italian,cheap,Greenpoint,6:00,2,true,10/3/2022
+1236922689,Rheum rhabarbarum L.,Vietnamese,expensive,Bushwick,6:00,3,true,9/6/2022
+3566599891,Pilularia americana A. Braun,Brazilian,medium,Cobble Hill,6:00,5,true,7/29/2022
+8277524951,Arctostaphylos catalinae P.V. Wells,Italian,cheap,Red Hook,6:00,5,false,5/27/2022
+8289361246,Echinochloa paludigena Wiegand,Mexican,medium,DUMBO,6:00,3,true,2/26/2023
+2974870872,Platycerium bifurcatum (Cav.) C. Chr.,Korean,expensive,Tribeca,6:00,5,true,7/30/2022
+5619235599,Colchicum L.,Italian,medium,Greenpoint,6:00,4,true,7/1/2022
+7407105332,Astragalus peckii Piper,Greek,cheap,Nolita,6:00,4,false,3/23/2022
+7285992615,Arctostaphylos hookeri G. Don ssp. hookeri,Indian,expensive,SoHo,6:00,2,false,10/15/2022
+3543367536,Oenothera macrocarpa Nutt. ssp. incana (A. Gray) Wagner,Brazilian,medium,Cobble Hill,6:00,3,false,3/9/2022
+4366423499,Delphinium decorum Fisch. & C.A. Mey.,Italian,medium,Vinegar Hill,6:00,2,true,11/29/2022
+9820443318,Arthonia cupressina Tuck.,Brazilian,cheap,Boerum HillCarroll Gardens,6:00,3,false,3/19/2022
+5156111963,Claytonia virginica L. var. virginica,Chinese,cheap,SoHo,6:00,5,false,2/10/2023
+7602383192,Symphyotrichum yukonense (Cronquist) G.L. Nesom,Greek,expensive,Greenpoint,6:00,2,true,1/18/2023
+0074285491,Eysenhardtia Kunth,Thai,medium,Williamsburg,6:00,5,true,3/1/2022
+5972641941,Penstemon dolius M.E. Jones ex Pennell var. duchesnensis N.H. Holmgren,Spanish,expensive,DUMBO,6:00,5,false,12/21/2022
+4193640795,Heterotheca sessiliflora (Nutt.) Shinners ssp. bolanderi (A. Gray) Semple,Brazilian,expensive,Red Hook,6:00,5,false,10/13/2022
+6754374268,Astragalus lentiginosus Douglas ex Hook. var. kennedyi (Rydb.) Barneby,Italian,medium,Vinegar Hill,6:00,3,true,6/7/2022
+6705799587,Paphiopedilum Pfitzer,Spanish,medium,Boerum HillCarroll Gardens,6:00,2,true,1/31/2023
+6449734604,Eleocharis equisetoides (Elliott) Torr.,Brazilian,expensive,Red Hook,6:00,5,false,10/19/2022
+0456105689,Tapellaria bilimbioides R. Sant.,French,cheap,Red Hook,6:00,5,false,8/23/2022
+2358828238,Leptogium juniperinum Tuck.,Moroccan,cheap,Fort Greene,6:00,3,true,3/19/2022
+7605629850,Carex viridula Michx. ssp. brachyrrhyncha (Celak.) B. Schmid,Spanish,expensive,Red Hook,6:00,5,true,11/26/2022
+8856052571,Hesperocnide tenella Torr.,Moroccan,cheap,Tribeca,6:00,5,true,8/22/2022
+5544501599,Mandragora L.,Greek,cheap,Fort Greene,6:00,2,false,6/28/2022
+7164443181,Pteris longifolia L.,Indian,cheap,Boerum HillCarroll Gardens,6:00,5,false,5/14/2022
+0390192457,Argemone squarrosa Greene ssp. glabrata G.B. Ownbey,Italian,cheap,Vinegar Hill,6:00,4,true,1/1/2023
+0564538167,Rubus occidentalis L.,Italian,expensive,Greenpoint,6:00,1,true,11/8/2022
+9215660291,Solanum bulbocastanum Dunal,Greek,medium,Cobble Hill,6:00,5,true,7/9/2022
+1674719671,Mertensia paniculata (Aiton) G. Don var. alaskana (Britton) L.O. Williams,Spanish,cheap,Cobble Hill,6:00,5,false,11/12/2022
+4291750854,Lychnis flos-cuculi L.,Vietnamese,cheap,Boerum HillCarroll Gardens,6:00,3,false,8/7/2022
+2328936180,Dudleya verityi K.M. Nakai,Lebanese,expensive,SoHo,6:00,3,true,10/21/2022
+1983832529,Oenothera macrocarpa Nutt. ssp. fremontii (S. Watson) W.L. Wagner,Turkish,expensive,SoHo,6:00,5,false,9/5/2022
+0414739949,Graffenrieda DC.,Brazilian,expensive,Vinegar Hill,6:00,5,false,10/22/2022
+5152038315,"Solanum lycopersicum L. var. cerasiforme (Dunal) Spooner, G.J. Anderson & R.K. Jansen",Japanese,expensive,Williamsburg,6:00,1,true,3/4/2022
+8673299977,Arabis laevigata (Muhl. ex Willd.) Poir. var. laevigata,Italian,cheap,Nolita,6:00,1,true,8/17/2022
+8787699621,Camissonia sierrae P.H. Raven ssp. alticola P.H. Raven,Moroccan,cheap,Williamsburg,6:00,4,true,10/20/2022
+6184954229,Bonamia grandiflora (A. Gray) Hallier f.,Japanese,cheap,Tribeca,6:00,3,true,6/21/2022
+8648008069,Machaeranthera pinnatifida (Hook.) Shinners ssp. gooddingii (A. Nelson) B.L. Turner & R.L. Hartm. var. gooddingii,Spanish,medium,Vinegar Hill,6:00,4,true,3/18/2022
+5658462355,Euphorbia petiolaris Sims,Greek,cheap,DUMBO,6:00,3,true,11/2/2022
+8936136674,Verrucaria striatula Wahlenb.,Vietnamese,cheap,Red Hook,6:00,4,false,4/2/2022
+7859528134,Lupinus polyphyllus Lindl. ssp. polyphyllus var. grandifolius (Lindl. ex J. Agardh) Torr. & A. Gray,Vietnamese,medium,Red Hook,6:00,3,false,5/26/2022
+9570864028,Rosa laevigata Michx.,Brazilian,cheap,Cobble Hill,6:00,2,false,3/25/2022
+1734272627,Lobelia berlandieri A. DC. var. berlandieri,French,cheap,Williamsburg,6:00,3,true,3/30/2022
+0811010708,Acalypha berteriana Müll. Arg.,Greek,cheap,Red Hook,6:00,4,true,5/12/2022
+3131600470,Pedicularis racemosa Douglas ex Benth. ssp. racemosa,Turkish,expensive,Williamsburg,6:00,2,true,9/10/2022
+7391439460,Polygonella articulata (L.) Meisn.,Mexican,medium,Tribeca,6:00,1,true,12/31/2022
+6155564698,Solidago missouriensis Nutt. var. missouriensis,Moroccan,cheap,Boerum HillCarroll Gardens,6:00,3,false,8/30/2022
+7495221712,Mammillaria prolifera (Mill.) Haw.,Mexican,cheap,SoHo,6:00,2,false,12/31/2022
+7818830421,Carex austrocaroliniana L.H. Bailey,Spanish,expensive,Fort Greene,6:00,3,true,1/30/2023
+7005213912,Isocoma coronopifolia (A. Gray) Greene,Indian,cheap,Red Hook,6:00,1,false,9/11/2022
+7809881779,Arnica chamissonis Less. ssp. foliosa (Nutt.) Maguire var. incana (A. Gray) Hultén,Thai,medium,Fort Greene,6:00,4,false,11/22/2022
+0409477087,Dianella sandwicensis Hook. & Arn.,Japanese,expensive,Fort Greene,6:00,2,true,9/16/2022
+5695368219,Marsilea L.,Moroccan,expensive,Red Hook,6:00,4,true,10/10/2022
+5970136530,Helianthus ×glaucus Small (pro sp.),Greek,medium,Williamsburg,6:00,4,false,6/23/2022
+5939327427,Plagiobothrys glyptocarpus (Piper) I.M. Johnst.,Vietnamese,expensive,DUMBO,6:00,2,true,11/24/2022
+6008559843,Monarda punctata L. ssp. punctata var. punctata,Chinese,expensive,Red Hook,6:00,1,false,12/21/2022
+9028952802,Cicuta L.,French,cheap,Bushwick,6:00,4,false,7/26/2022
+7884442272,Tagetes minima L.,Lebanese,cheap,Fort Greene,6:00,4,true,7/12/2022
+5403426051,Dyera costulata (Miq.) Hook. f.,Indian,expensive,Fort Greene,6:00,3,true,7/2/2022
+1408671034,Tagetes minuta L.,Italian,cheap,Red Hook,6:00,2,true,9/30/2022
+0325048894,Carex vulpinoidea Michx. var. vulpinoidea,Thai,cheap,Red Hook,6:00,1,false,9/11/2022
+1189264234,Orobanche californica Cham. & Schltdl.,Moroccan,cheap,DUMBO,6:00,5,false,5/7/2022
+2436968365,Saxifraga caespitosa L. ssp. delicatula (Small) A.E. Porsild,Italian,cheap,Boerum HillCarroll Gardens,6:00,3,false,8/16/2022
+7081405525,Candelariella efflorescens R.C. Harris & W.R. Buck,Indian,expensive,Vinegar Hill,6:00,3,true,12/1/2022
+3776498390,Cladina portentosa (Dufour) Follmann,Italian,medium,SoHo,6:00,1,true,8/28/2022
+1204745064,Spiranthes infernalis Sheviak,Lebanese,expensive,Fort Greene,6:00,3,true,6/21/2022
+8697848164,Pittosporum kauaiense Hillebr.,Japanese,medium,Red Hook,6:00,5,true,3/20/2022
+2173508547,Crataegus canadensis Sarg.,Ethiopian,expensive,DUMBO,6:00,3,false,11/2/2022
+8633286378,Astragalus argophyllus Nutt. var. martinii M.E. Jones,Spanish,medium,Williamsburg,6:00,2,false,5/16/2022
+0111203864,Loeselia L.,Indian,expensive,Cobble Hill,6:00,1,false,10/1/2022
+4819506382,Tylophora polyantha Volkens,Korean,expensive,Red Hook,6:00,3,true,7/18/2022
+3008582249,Asimina triloba (L.) Dunal,Italian,cheap,Fort Greene,6:00,1,true,9/25/2022
+5379411290,Usnea graciosa Mot.,Lebanese,medium,Cobble Hill,6:00,2,false,2/15/2023
+1251889190,Phacelia glechomifolia A. Gray,Korean,cheap,Tribeca,6:00,4,true,4/14/2022
+3544878364,Carex nardina Fr. var. nardina,Italian,medium,Vinegar Hill,6:00,3,false,4/17/2022
+9036873673,Trifolium nanum Torr.,Lebanese,cheap,Cobble Hill,6:00,5,true,5/16/2022
+8915810066,Woodsia ×maxonii R. Tryon,Korean,medium,Cobble Hill,6:00,2,true,2/1/2023
+3058094507,Sematophyllum demissum (Wilson) Mitt.,Korean,medium,Red Hook,6:00,5,false,4/1/2022
+6341933762,Juncus interior Wiegand var. arizonicus (Wiegand) F.J. Herm.,Turkish,medium,Williamsburg,6:00,4,true,5/29/2022
+2869119844,Dalea pringlei A. Gray,Indian,medium,SoHo,6:00,2,true,9/23/2022
+9770539899,Virola calophylla (Spruce) Warb.,Lebanese,expensive,Bushwick,6:00,2,false,8/24/2022
+7587310827,Cyathea andina (Karst.) Domin,Thai,cheap,Greenpoint,6:00,3,false,6/28/2022
+4165135704,Cicuta maculata L. var. angustifolia Hook.,Lebanese,expensive,Cobble Hill,6:00,5,true,11/13/2022
+0078456568,Chrysosplenium alternifolium L.,Spanish,cheap,Boerum HillCarroll Gardens,6:00,1,false,8/13/2022
+7345276457,Cotinus obovatus Raf.,Lebanese,expensive,Williamsburg,6:00,4,true,2/8/2023
+6818334512,Lomatium rigidum (M.E. Jones) Jeps.,Ethiopian,expensive,Cobble Hill,6:00,1,true,10/16/2022
+6225462155,Pyrenula pseudobufonia (Rehm) R.C. Harris,Moroccan,expensive,Cobble Hill,6:00,3,false,2/16/2023
+0702379751,Draba platycarpa Torr. & A. Gray,French,medium,Red Hook,6:00,2,false,7/6/2022
+0012115428,Eucephalus paucicapitatus (B.L. Rob.) Greene,Vietnamese,cheap,Tribeca,6:00,2,true,5/1/2022
+3452020347,Aerva lanata (L.) Juss. ex Schult.,Italian,expensive,Boerum HillCarroll Gardens,6:00,2,true,8/22/2022
+7303710698,Pleuricospora fimbriolata A. Gray,Moroccan,expensive,Nolita,6:00,3,false,10/20/2022
+1626858276,Pseudognaphalium helleri (Britton) Anderb.,Italian,cheap,Bushwick,6:00,4,false,1/4/2023
+3515095616,Rosa arkansana Porter,Ethiopian,cheap,Bushwick,6:00,1,false,11/29/2022
+9137344455,Hymenophyllum fragile (Hedw.) Morton,French,expensive,Greenpoint,6:00,1,true,10/19/2022
+7158400379,Eriogonum sphaerocephalum Douglas ex Benth.,Brazilian,expensive,DUMBO,6:00,3,true,4/10/2022
+1732723737,Astilbe Buch.-Ham. ex D. Don,Korean,cheap,Tribeca,6:00,2,false,9/2/2022
+9583896985,Arabis suffrutescens S. Watson var. suffrutescens,Spanish,expensive,Vinegar Hill,6:00,3,true,1/26/2023
+9458624185,Romulea rosea (L.) Eckl. var. rosea (L.) Eckl. [excluded],Lebanese,expensive,DUMBO,6:00,1,false,3/26/2022
+9448174667,Morinda L.,Indian,medium,Tribeca,6:00,2,true,9/10/2022
+5858596282,Brachymenium speciosum (Hook. f. & Wilson) Steere,Greek,cheap,Red Hook,6:00,2,false,4/11/2022
+1072937018,Penstemon ×dubius Davidson (pro sp.),Ethiopian,medium,Boerum HillCarroll Gardens,6:00,1,true,3/15/2022
+8263058449,Liatris elegans (Walter) Michx. var. carizzana Gaiser,Mexican,medium,SoHo,6:00,1,true,5/15/2022
+3145464701,Clematis flammula L.,Lebanese,expensive,Bushwick,6:00,4,false,11/16/2022
+7446243082,Mirabilis laevis (Benth.) Curran var. cedrosensis (Standl.) Munz,Moroccan,cheap,Bushwick,6:00,2,false,3/23/2022
+3692478712,Castilleja pallescens (A. Gray) Greenm. var. inverta (A. Nelson & J.F. Macbr.) Edwin,Brazilian,medium,Fort Greene,6:00,3,true,11/26/2022
+6068320375,Usnea cirrosa Mot.,Brazilian,expensive,SoHo,6:00,2,true,7/16/2022
+3419448937,"Oenothera psammophila (A. Nelson & J.F. Macbr.) W.L. Wagner, Stockhouse & Klein",Korean,expensive,Fort Greene,6:00,4,true,12/2/2022
+3971403263,Cymopterus purpureus S. Watson,Spanish,cheap,Nolita,6:00,4,false,5/29/2022
+7662300609,Leandra krugii (Cogn.) W.S. Judd & Skean,Vietnamese,medium,Tribeca,6:00,1,true,4/7/2022
+3307507729,Arabis pendulina Greene,Ethiopian,expensive,Boerum HillCarroll Gardens,6:00,3,true,2/7/2023
+7152012997,Senecio wootonii Greene,Turkish,expensive,Cobble Hill,6:00,5,true,2/10/2023
+7580537257,Primula laurentiana Fernald,Mexican,cheap,Boerum HillCarroll Gardens,6:00,1,true,5/16/2022
+5504255023,Poa nemoralis L.,Japanese,expensive,Williamsburg,6:00,2,false,2/19/2023
+4362109617,Bloomeria Kellogg,Lebanese,medium,Cobble Hill,6:00,1,false,3/1/2022
+5301757946,Begonia heracleifolia Cham. & Schltdl.,Greek,cheap,Vinegar Hill,6:00,4,true,11/19/2022
+8188841625,Psidium cattleianum Sabine,Lebanese,expensive,Cobble Hill,6:00,4,false,1/12/2023
+4114497757,Puccinellia lucida Fernald & Weath.,Turkish,medium,Boerum HillCarroll Gardens,6:00,3,false,6/3/2022
+9998175720,Picea rubens Sarg.,Thai,cheap,Bushwick,6:00,5,true,5/22/2022
+8354219119,Chaenothecopsis viridireagens (Nadv.) A.F.W. Schmidt,Italian,medium,Red Hook,6:00,2,true,2/10/2023
+7711289014,"Clermontia carinifera Levl., nom. inq.",Spanish,expensive,Nolita,6:00,5,true,6/8/2022
+2699169552,Crassocephalum crepidioides (Benth.) S. Moore,Vietnamese,expensive,Vinegar Hill,6:00,1,false,7/23/2022
+3577852674,Grimmia unicolor Hook.,Vietnamese,cheap,Nolita,6:00,3,false,12/27/2022
+9651748974,Melaleuca incana R. Br.,Greek,medium,Tribeca,6:00,1,true,4/1/2022
+4614045480,Helianthus laevigatus Torr. & A. Gray,Japanese,medium,Boerum HillCarroll Gardens,6:00,3,true,11/13/2022
+3429851262,Dicliptera resupinata (Vahl) Juss.,Japanese,expensive,Williamsburg,6:00,1,false,12/1/2022
+5729340273,Solanum jasminoides Paxton,Spanish,expensive,Bushwick,6:00,5,true,2/22/2023
+0861305337,Schizostylis coccinea Backh. & Harv.,Mexican,cheap,Red Hook,6:00,2,false,4/23/2022
+3075641766,Sorbus ×thuringiaca (Ilse) Fritsch,Indian,medium,Williamsburg,6:00,3,false,1/9/2023
+2732155845,Phyllostegia ambigua (A. Gray) Hillebr.,Italian,expensive,Boerum HillCarroll Gardens,6:00,3,false,1/3/2023
+3034415060,Malacothrix torreyi A. Gray,Turkish,medium,Nolita,6:00,4,false,3/18/2022
+9909527014,Melicope balloui (Rock) T.G. Hartley & B.C. Stone,Brazilian,cheap,Vinegar Hill,6:00,3,true,10/2/2022
+8579436591,Grevillea robusta A. Cunn. ex R. Br.,Vietnamese,medium,Red Hook,6:00,3,false,1/26/2023
+3545352447,Aconitum noveboracense A. Gray ex Coville,Spanish,expensive,Williamsburg,6:00,4,false,5/24/2022
+2112100343,Horkelia daucifolia (Greene) Rydb.,Chinese,medium,Cobble Hill,6:00,3,false,10/8/2022
+8914822761,Carex molestiformis Reznicek & P. Rothr.,Vietnamese,cheap,Boerum HillCarroll Gardens,6:00,3,false,12/24/2022
+3071568258,Artemisia papposa S.F. Blake & Cronquist,Mexican,expensive,Bushwick,6:00,3,true,9/30/2022
+2251397248,Xylorhiza tortifolia (Torr. & A. Gray) Greene var. tortifolia,Ethiopian,expensive,DUMBO,6:00,5,true,7/23/2022
+6029221256,Tuckermannopsis chlorophylla (Willd.) Hale,Vietnamese,cheap,Boerum HillCarroll Gardens,6:00,5,false,9/25/2022
+4606015756,Artemisia vulgaris L.,Brazilian,expensive,DUMBO,6:00,3,false,10/23/2022
+8349583762,Bryoria furcellata (Fr.) Brodo & D. Hawksw.,Korean,expensive,Williamsburg,6:00,1,false,3/19/2022
+3705315218,Acarospora superfusa H. Magn.,Lebanese,cheap,Boerum HillCarroll Gardens,6:00,3,false,10/28/2022
+7322423062,Arceuthobium abietinum Engelm. ex Munz ssp. abietinum,Vietnamese,expensive,Fort Greene,6:00,3,false,5/20/2022
+6138553764,Pleurothallis obovata (Lindl.) Lindl.,Korean,cheap,Bushwick,6:00,4,false,5/4/2022
+7311076609,Asclepias nyctaginifolia A. Gray,Turkish,expensive,Boerum HillCarroll Gardens,6:00,5,true,7/31/2022
+1481299999,Ophioglossum pendulum L.,Greek,cheap,Red Hook,6:00,1,true,8/26/2022
+1918722552,Lecanora rupicola (L.) Zahlbr.,Japanese,medium,Tribeca,6:00,5,true,1/2/2023
+7527891254,Fritillaria striata Eastw.,Vietnamese,cheap,Williamsburg,6:00,4,false,4/7/2022
+5517807461,Chimaphila umbellata (L.) W.P.C. Barton ssp. acuta (Rydb.) Hultén,Mexican,medium,Fort Greene,6:00,2,true,10/14/2022
+6111218808,Vicia hassei S. Watson,Mexican,cheap,DUMBO,6:00,3,true,10/1/2022
+1514639912,Carex dasycarpa Muhl.,Indian,cheap,Fort Greene,6:00,1,false,1/26/2023
+1811382592,Downingia elegans (Douglas ex Lindl.) Torr.,Spanish,expensive,Red Hook,6:00,1,true,12/9/2022
+8589001458,Illecebrum L.,Lebanese,expensive,Greenpoint,6:00,5,false,12/20/2022
+4662242215,Glyceria declinata Brébiss.,Ethiopian,medium,Cobble Hill,6:00,4,false,1/15/2023
+8682095653,Stigmaphyllon A. Juss.,Indian,cheap,Tribeca,6:00,4,true,8/10/2022
+4671639610,Linum rigidum Pursh,Japanese,medium,Fort Greene,6:00,1,false,9/15/2022
+7212985457,Heterocodon rariflorum Nutt.,Ethiopian,expensive,DUMBO,6:00,4,false,11/2/2022
+3295593019,Habenaria quinqueseta (Michx.) Eaton,Moroccan,medium,SoHo,6:00,2,true,2/3/2023
+2610151500,Distichium capillaceum (Hedw.) Bruch & Schimp. var. capillaceum,Mexican,cheap,Williamsburg,6:00,3,false,7/28/2022
+9152835723,Evolvulus grisebachii Peter,Vietnamese,expensive,SoHo,6:00,4,false,3/17/2022
+5251298552,Rubus vigoratus L.H. Bailey,French,cheap,Tribeca,6:00,5,true,2/22/2023
+1140324705,Triglochin gaspensis Lieth & D. Löve,Italian,cheap,Greenpoint,6:00,1,true,11/26/2022
+8701635492,Lepidium austrinum Small,Greek,expensive,Greenpoint,6:00,3,false,8/8/2022
+4146987687,Equisetum ×font-queri Rothm.,Italian,cheap,Red Hook,6:00,4,true,4/7/2022
+4878411910,Selaginella tortipila A. Braun,Indian,expensive,Tribeca,6:00,4,false,11/27/2022
+5714159292,Polygala crucianelloides DC.,Japanese,medium,Cobble Hill,6:00,4,true,9/11/2022
+9495657113,Lecidea mammillana Tuck.,Brazilian,cheap,DUMBO,6:00,3,false,8/24/2022
+4371850332,Descurainia obtusa (Greene) O.E. Schulz ssp. adenophora (Wooton & Standl.) Detling,Thai,expensive,Bushwick,6:00,4,false,2/11/2023
+8954424562,Penstemon grinnellii Eastw. ssp. scrophularioides (M.E. Jones) Munz,Thai,medium,Tribeca,6:00,2,true,4/25/2022
+4127027703,Frangula betulifolia (Greene) V. Grub. ssp. betulifolia,Korean,expensive,Cobble Hill,6:00,1,false,7/29/2022
+3961104638,Nama retrorsum J.T. Howell,French,cheap,SoHo,6:00,1,true,12/7/2022
+8551643215,Delphinium barbeyi (Huth) Huth,Brazilian,medium,Red Hook,6:00,4,false,11/18/2022
+0884959481,Sedum oregonense (S. Watson) M. Peck,Thai,cheap,Williamsburg,6:00,1,false,3/19/2022
+8979475934,Pholistoma auritum (Lindl.) Lilja,Turkish,expensive,Vinegar Hill,6:00,3,false,7/17/2022
+8992439156,Carex heteroneura W. Boott var. brevisquama F.J. Herm.,Korean,medium,DUMBO,6:00,5,true,2/24/2023
+0621409251,Saussurea DC.,Brazilian,expensive,SoHo,6:00,3,true,1/22/2023
+4505961958,Bloomeria crocea (Torr.) Coville,Korean,expensive,Greenpoint,6:00,2,false,5/23/2022
+3190056218,Rosa micrantha Borrer ex Sm.,Spanish,medium,Nolita,6:00,1,false,4/5/2022
+5738067207,Hackelia pinetorum (Greene ex A. Gray) I.M. Johnst. var. pinetorum,Lebanese,cheap,SoHo,6:00,3,true,2/15/2023
+5158999198,Verbena brasiliensis Vell.,Moroccan,medium,DUMBO,6:00,2,true,9/13/2022
+3144275506,Ceropegia woodii Schltr.,Ethiopian,medium,Tribeca,6:00,5,true,6/5/2022
+1467154350,Carlowrightia A. Gray,Chinese,medium,Greenpoint,6:00,2,false,1/19/2023
+5119877982,Astragalus tyghensis M. Peck,Turkish,cheap,SoHo,6:00,5,true,3/2/2022
+6467038533,Selaginella leucobryoides Maxon,Spanish,cheap,Tribeca,6:00,1,false,7/22/2022
+4660155749,Litchi chinensis Sonn. [excluded],Korean,medium,Fort Greene,6:00,4,false,2/27/2023
+7485797077,Graphina leuconephala (Nyl.) Zahlbr.,Mexican,expensive,Vinegar Hill,6:00,1,false,11/13/2022
+8197031150,Ayenia compacta Rose,Ethiopian,medium,SoHo,6:00,1,true,1/1/2023
+8946302682,Penstemon laricifolius Hook. & Arn.,Italian,expensive,Nolita,6:00,1,false,12/19/2022
+1235414388,Escobaria vivipara (Nutt.) Buxbaum var. arizonica (Engelm.) D.R. Hunt,Moroccan,cheap,DUMBO,6:00,1,false,9/27/2022
+2393764844,Astragalus robbinsii (Oakes) A. Gray var. occidentalis S. Watson,Moroccan,medium,SoHo,6:00,2,false,5/3/2022
+3219041035,Packera flettii (Wiegand) W.A. Weber & Á. Löve,Moroccan,medium,Fort Greene,6:00,4,true,10/29/2022
+5560629146,Begonia cucullata Willd.,Korean,cheap,Vinegar Hill,6:00,5,true,8/25/2022
+1745066462,Anogeissus latifolia (Roxb. ex DC.) Wall. ex Beddome,Indian,cheap,Greenpoint,6:00,4,false,11/11/2022
+5016955727,Phacelia crenulata Torr. ex S. Watson var. minutiflora (J. Voss) Jeps.,Indian,cheap,Boerum HillCarroll Gardens,6:00,1,false,10/13/2022
+7682770791,Chamaechaenactis Rydb.,Mexican,expensive,Tribeca,6:00,3,true,12/4/2022
+7463782379,Perideridia californica (Torr.) A. Nelson & J.F. Macbr.,Vietnamese,medium,Williamsburg,6:00,2,true,4/30/2022
+7525299587,Draba spectabilis Greene var. oxyloba (Greene) Gilg & Schulz ex O.E. Schulz,Korean,medium,Nolita,6:00,2,true,9/1/2022
+5102002198,Mangifera caesia Jack ex Wall.,Moroccan,expensive,Vinegar Hill,6:00,5,true,1/6/2023
+2988135495,Genipa americana L.,Brazilian,expensive,DUMBO,6:00,4,true,11/10/2022
+2053395788,Lathyrus nevadensis S. Watson ssp. lanceolatus (Howell) C.L. Hitchc. var. nuttallii (S. Watson) C.L. Hitchc.,Indian,expensive,Red Hook,6:00,1,true,4/29/2022
+6651491148,Brachythecium starkei (Brid.) Schimp.,Chinese,cheap,Fort Greene,6:00,5,true,1/30/2023
+9175506750,Herniaria hirsuta L. ssp. hirsuta,Thai,medium,Fort Greene,6:00,2,true,10/23/2022
+2092195875,Monarda punctata L. ssp. punctata var. villicaulis (Pennell) Palmer & Steyerm.,Lebanese,cheap,DUMBO,6:00,4,true,1/4/2023
+4033840184,Eriastrum eremicum (Jeps.) H. Mason ssp. eremicum,Lebanese,expensive,Cobble Hill,6:00,2,true,9/5/2022
+8852872426,Nymphoides aquatica (J.F. Gmel.) Kuntze,Spanish,cheap,SoHo,6:00,2,false,5/7/2022
+0303075570,Desmodium strictum (Pursh) DC.,Turkish,cheap,Fort Greene,6:00,5,true,8/6/2022
+4958457925,Callisia Loefl.,Ethiopian,expensive,SoHo,6:00,4,false,4/20/2022
+6236472467,Gomphrena nitida Rothr.,Japanese,medium,Boerum HillCarroll Gardens,6:00,3,false,5/20/2022
+9205903426,Lecanora valesiaca (Müll. Arg.) Stizenb.,Italian,expensive,Nolita,6:00,3,true,9/12/2022
+5442095591,Ophioparma Norman,Moroccan,medium,Cobble Hill,6:00,5,false,3/13/2022
+7770574951,Delphinium californicum Torr. & A. Gray,Spanish,cheap,Red Hook,6:00,5,false,11/8/2022
+2610591357,Navarretia paradoxinota L.A. Johnson & D. Gowen,Ethiopian,medium,Tribeca,6:00,5,false,12/6/2022
+2785177924,Thymophylla pentachaeta (DC.) Small,Ethiopian,expensive,Boerum HillCarroll Gardens,6:00,2,true,10/16/2022
+6921761347,Scutellaria lateriflora L. var. lateriflora,Turkish,expensive,Fort Greene,6:00,5,true,5/9/2022
+6740423083,Morus L.,Japanese,medium,Red Hook,6:00,4,false,5/29/2022
+2475516542,Anemone drummondii S. Watson ssp. drummondii,Italian,expensive,Fort Greene,6:00,5,false,1/14/2023
+0862522080,Phalaris coerulescens Desf.,Brazilian,expensive,Cobble Hill,6:00,1,false,1/16/2023
+3671931310,Hoffmannseggia drummondii Torr. & A. Gray,Mexican,expensive,Williamsburg,6:00,5,false,2/3/2023
+8430376909,Lewisia kelloggii K. Brandegee ssp. kelloggii,Brazilian,medium,Williamsburg,6:00,5,true,4/7/2022
+9806981464,Oxalis purpurea L.,Spanish,expensive,Vinegar Hill,6:00,2,false,12/1/2022
+8133271061,Epilobium pygmaeum (Speg.) Hoch & P.H. Raven,Italian,cheap,Vinegar Hill,6:00,1,false,5/7/2022
+3802951298,Odontonema cuspidatum (Nees) Kuntze,Chinese,medium,Fort Greene,6:00,4,true,11/12/2022
+9024091748,Astragalus racemosus Pursh var. treleasei Ced. Porter,Greek,cheap,Tribeca,6:00,2,false,10/26/2022
+7421928219,Carica quercifolia (A. St. Hil.) Hieron.,Thai,cheap,Greenpoint,6:00,5,true,5/29/2022
+2658230125,Psychotria garberiana Christoph.,Indian,cheap,Red Hook,6:00,3,true,9/12/2022
+0935648429,Androsace elongata L. ssp. acuta (Greene) G.T. Robbins,Moroccan,cheap,Vinegar Hill,6:00,5,true,3/20/2022
+0767472330,Convolvulus L.,Lebanese,medium,Fort Greene,6:00,2,true,11/26/2022
+0075519038,Randia portoricensis (Urb.) Britton & Standl.,Spanish,medium,Vinegar Hill,6:00,1,true,2/10/2023
+5247423550,Baptisia bracteata Muhl. ex Elliott var. leucophaea (Nutt.) Kartesz & Gandhi,Mexican,cheap,Tribeca,6:00,5,true,6/25/2022
+0505629968,Macrocoma sullivantii (Müll. Hal.) Grout,Japanese,medium,Nolita,6:00,2,true,2/25/2023
+5406616072,Stellaria nemorum L.,Lebanese,medium,Fort Greene,6:00,1,false,2/23/2023
+2094834441,Ixora thwaitesii Hook. f.,Chinese,expensive,SoHo,6:00,1,false,9/13/2022
+6358709011,Hastingsia bracteosa S. Watson var. bracteosa,Mexican,expensive,Vinegar Hill,6:00,4,true,2/22/2023
+5314035391,Dicentra formosa (Haw.) Walp. ssp. oregona (Eastw.) Munz,Ethiopian,expensive,Vinegar Hill,6:00,2,false,6/10/2022
+2442823152,Potentilla canadensis L.,Mexican,cheap,Bushwick,6:00,3,true,6/30/2022
+6189846505,Poa suksdorfii (Beal) Vasey ex Piper,Lebanese,medium,Boerum HillCarroll Gardens,6:00,1,false,8/23/2022
+7202508915,Arctostaphylos glandulosa Eastw. ssp. zacaensis (Eastw.) P.V. Wells,Greek,expensive,Bushwick,6:00,4,true,4/18/2022
+8837707444,Allium nigrum L.,Spanish,cheap,Cobble Hill,6:00,2,false,4/8/2022
+1985167255,Polygala grandiflora Walter,Italian,medium,Greenpoint,6:00,3,false,9/9/2022
+3398993206,Cladonia chlorophaea (Flörke ex Sommerf.) Spreng.,Indian,medium,Bushwick,6:00,1,false,8/2/2022
+5166269748,Cyphelium brunneum W.A. Weber,Turkish,medium,SoHo,6:00,5,true,5/23/2022
+5096442063,Aralia cordata Thunb.,Italian,expensive,Fort Greene,6:00,2,true,5/30/2022
+3768703789,Alnus cordata (Loisel.) Duby,Thai,expensive,Cobble Hill,6:00,2,false,4/20/2022
+5266312548,Asclepias involucrata Engelm. ex Torr.,Indian,expensive,Bushwick,6:00,2,false,7/5/2022
+5879416011,Lonicera villosa (Michx.) Schult.,Greek,expensive,Nolita,6:00,3,false,5/18/2022
+7444054576,Ophioglossum pendulum L. ssp. pendulum,Lebanese,cheap,Boerum HillCarroll Gardens,6:00,2,false,3/23/2022
+2016122668,Astrothelium versicolor Müll. Arg.,Moroccan,expensive,Greenpoint,6:00,5,false,1/7/2023
+3089704706,Caloplaca ulmorum (Fink) Fink,Lebanese,expensive,Nolita,6:00,5,false,8/4/2022
+4812114225,Diplotomma penichrum (Tuck.) Szat.,Vietnamese,cheap,Red Hook,6:00,1,false,5/23/2022
+2267818264,Physaria grahamii Morton,Greek,medium,DUMBO,6:00,3,true,3/5/2022
+2396227343,Cystopteris bulbifera (L.) Bernh.,Lebanese,medium,Boerum HillCarroll Gardens,6:00,1,true,12/24/2022
+0109835913,Hypericum adpressum W.P.C. Barton,Greek,cheap,Cobble Hill,6:00,4,true,1/7/2023
+9951537758,Carex seorsa Howe,Ethiopian,medium,Williamsburg,6:00,1,true,10/15/2022
+8933951806,Aristolochia odoratissima L.,Indian,medium,Nolita,6:00,5,false,11/11/2022
+6637903256,Aristolochia wrightii Seem.,Chinese,medium,Bushwick,6:00,1,false,9/21/2022
+9063611129,Baccharis pilularis DC.,Mexican,expensive,Boerum HillCarroll Gardens,6:00,4,true,7/1/2022
+6630144392,Pedicularis racemosa Douglas ex Benth. ssp. alba Pennell,Turkish,expensive,Williamsburg,6:00,5,true,2/14/2023
+2210234263,Forestiera shrevei Standl.,Japanese,medium,Vinegar Hill,6:00,4,false,6/14/2022
+2784053849,Lepisorus thunbergianus (Kaulf.) Ching,Italian,expensive,Williamsburg,6:00,1,false,10/31/2022
+4772249095,Trillium grandiflorum (Michx.) Salisb.,Lebanese,cheap,Tribeca,6:00,4,true,8/10/2022
+7078612612,Reynosia Griseb.,Thai,cheap,Bushwick,6:00,5,true,11/4/2022
+4590461692,Aquilegia elegantula Greene,Turkish,expensive,Red Hook,6:00,4,false,9/27/2022
+7718321606,Billieturnera helleri (Rose ex A. Heller) Fryxell,Turkish,medium,Nolita,6:00,1,true,10/12/2022
+4692145382,Cryptantha nevadensis A. Nelson & Kennedy,Greek,medium,Nolita,6:00,2,true,11/26/2022
+3777342785,Robinia viscosa Vent.,Greek,medium,Williamsburg,6:00,4,true,6/3/2022
+7973646698,Saltugilia australis (H. Mason & A.D. Grant) L.A. Johnson,Spanish,cheap,SoHo,6:00,2,true,12/3/2022
+8656571133,Cabomba furcata Schult. & Schult. f.,Chinese,expensive,DUMBO,6:00,3,false,7/2/2022
+9318089325,Collinsia heterophylla Buist ex Graham,Chinese,expensive,Bushwick,6:00,1,true,5/21/2022
+6035129307,Bobea sandwicensis (A. Gray) Hillebr.,Brazilian,cheap,Cobble Hill,6:00,1,true,9/6/2022
+7107741942,Chrysopsis gossypina (Michx.) Elliott,French,medium,Red Hook,6:00,1,false,9/27/2022
+6632034373,Haplocarpha Less.,Lebanese,cheap,Bushwick,6:00,3,false,8/27/2022
+2419567986,Philadelphus mearnsii W.H. Evans ex Koehne,Moroccan,medium,DUMBO,6:00,2,false,3/18/2022
+1300432837,Atriplex stipitata Benth.,Chinese,medium,Greenpoint,6:00,1,false,3/20/2022
+8665966021,Pediomelum latestipulatum (Shinners) Mahler var. latestipulatum,Spanish,cheap,Williamsburg,6:00,4,true,9/8/2022
+3311567900,Crepis occidentalis Nutt. ssp. pumila (Rydb.) Babc. & Stebbins,Thai,cheap,Bushwick,6:00,4,true,3/18/2022
+5152445174,Thysanocarpus Hook.,Greek,cheap,Red Hook,6:00,3,true,12/12/2022
+3304490124,Carex conoidea Schkuhr ex Willd.,Mexican,medium,Cobble Hill,6:00,3,true,10/16/2022
+3456379145,Gigantochloa Kurz ex Munro,Moroccan,cheap,Cobble Hill,6:00,2,true,12/9/2022
+6323479605,Lecidea umbonata (Hepp) Mudd,Indian,cheap,Fort Greene,6:00,4,false,8/3/2022
+0352939281,Conyza bonariensis (L.) Cronquist,Moroccan,medium,SoHo,6:00,5,false,2/24/2023
+5524206729,Trichostema ruygtii F.H. Lewis,Greek,cheap,Tribeca,6:00,4,false,10/10/2022
+3626222675,Bartramia Hedw.,Spanish,expensive,Williamsburg,6:00,3,false,3/1/2022
+9084422686,Boltonia asteroides (L.) L'Hér. var. latisquama (A. Gray) Cronquist,Moroccan,medium,Nolita,6:00,3,true,12/14/2022
+9157754284,Grewia biloba G. Don,Korean,expensive,Greenpoint,6:00,1,true,5/10/2022
+7476076508,Coffea canephora Pierre ex Froehner,Thai,cheap,SoHo,6:00,1,true,9/16/2022
+3471671692,Penstemon linarioides A. Gray ssp. linarioides,Japanese,cheap,Boerum HillCarroll Gardens,6:00,2,true,6/6/2022
+1540799573,Onobrychis viciifolia Scop.,Turkish,medium,Bushwick,6:00,1,true,7/29/2022
+5910551418,Lupinus hispanicus Boiss. & Reut.,Japanese,cheap,Nolita,6:00,5,true,3/8/2022
+4158326192,Anemone oregana A. Gray,Moroccan,medium,Williamsburg,6:00,3,true,11/3/2022
+0888987005,Lupinus concinnus J. Agardh ssp. optatus (C.P. Sm.) D. Dunn,Greek,medium,Nolita,6:00,5,false,6/10/2022
+0874193699,Crepis modocensis Greene,Japanese,medium,Fort Greene,6:00,5,false,9/20/2022
+2027924892,Mirabilis pudica Barneby var. pubescens Kartesz & Gandhi,Brazilian,medium,SoHo,6:00,1,false,5/26/2022
+7593057275,Sida glomerata Comm. ex Cav.,Vietnamese,medium,Fort Greene,6:00,5,false,1/3/2023
+2855663199,Aliciella nyensis (Reveal) J.M. Porter,Chinese,expensive,Bushwick,6:00,5,true,1/14/2023
+4425612469,Arctostaphylos tomentosa (Pursh) Lindl. ssp. daciticola P.V. Wells,Chinese,expensive,Bushwick,6:00,1,true,9/7/2022
+2692651006,Elymus L.,Vietnamese,expensive,SoHo,6:00,2,true,11/20/2022
+6059719627,Crocus flavus Weston,Spanish,expensive,Red Hook,6:00,5,false,5/22/2022
+6034253616,Draba lonchocarpa Rydb. var. vestita O.E. Schulz,Vietnamese,expensive,Cobble Hill,6:00,5,true,3/15/2022
+4054133991,Baptisia ×microphylla Nutt. (pro sp.),Brazilian,medium,Nolita,6:00,4,true,7/10/2022
+5383675337,Lecanora tristiuscula H. Magn.,Mexican,medium,Red Hook,6:00,4,true,6/21/2022
+3998119841,Cyperus lupulinus (Spreng.) Marcks ssp. lupulinus,Vietnamese,expensive,Bushwick,6:00,5,true,9/21/2022
+8269243477,Polygonum scandens L. var. dumetorum (L.) Gleason,Korean,medium,Williamsburg,6:00,1,false,1/2/2023
+4107587827,Arnica nevadensis A. Gray,Lebanese,medium,Red Hook,6:00,5,true,7/28/2022
+9551433696,Lasianthus lanceolatus (Griseb.) G. Maza,Ethiopian,cheap,Vinegar Hill,6:00,1,false,9/22/2022
+3046567251,Enemion savilei (Calder & Roy L. Taylor) Keener,Korean,expensive,DUMBO,6:00,4,false,3/1/2022
+1557675406,Alcea rosea L.,Spanish,expensive,DUMBO,6:00,3,false,4/4/2022
+4490073712,Commelina erecta L. var. erecta,Indian,medium,Williamsburg,6:00,4,true,8/26/2022
+2145126570,Raphia hookeri G. Mann & H.A. Wendl.,Vietnamese,expensive,Williamsburg,6:00,2,false,7/30/2022
+0407401881,Quercus ×wagneri Gaynor,Italian,cheap,Vinegar Hill,6:00,5,true,11/10/2022
+8581776728,Antidesma L.,Turkish,expensive,Williamsburg,6:00,1,true,4/24/2022
+4596333831,Cladonia farinacea (Vain.) A. Evans,Greek,expensive,Bushwick,6:00,1,true,6/24/2022
+4074252260,Lantana depressa Small var. floridana (Moldenke) R.W. Sanders,Brazilian,cheap,Boerum HillCarroll Gardens,6:00,3,false,7/14/2022
+6630087739,Cordylanthus mollis A. Gray ssp. hispidus (Pennell) T.I. Chuang & Heckard,Greek,expensive,Red Hook,6:00,1,false,7/16/2022
+9075287798,Pedicularis canadensis L. ssp. fluviatilis (A. Heller) W.A. Weber,Japanese,cheap,Fort Greene,6:00,4,true,4/7/2022
+5602259376,Acicarpha Juss.,Spanish,expensive,Red Hook,6:00,1,false,8/14/2022
+4823962974,Danthonia intermedia Vasey,Japanese,expensive,Tribeca,6:00,3,true,9/27/2022
+8661407079,Atrichum oerstedianum (Müll. Hal.) Mitt.,French,medium,Boerum HillCarroll Gardens,6:00,4,true,8/7/2022
+4196728006,Cheilanthes horridula Maxon,Italian,cheap,Nolita,6:00,4,true,11/1/2022
+6255388441,Lipochaeta lobata (Gaudich.) DC. var. lobata,Brazilian,cheap,DUMBO,6:00,3,true,7/22/2022
+8785824941,Chelidonium majus L. var. plenum Wehrhahn,Korean,expensive,Vinegar Hill,6:00,3,false,8/25/2022
+4328245880,Platanthera tescamnis Sheviak & W.F. Jenn.,Italian,cheap,Greenpoint,6:00,5,true,3/21/2022
+5025174295,Chaptalia Vent.,French,medium,DUMBO,6:00,5,false,10/25/2022
+5026455220,Rhus chinensis Mill.,Indian,cheap,Bushwick,6:00,5,false,1/30/2023
+7568319350,Graphis subnitidula Nyl.,Lebanese,cheap,SoHo,6:00,1,true,10/28/2022
+3301476465,Ephedra pedunculata Engelm. ex S. Watson,Indian,cheap,Vinegar Hill,6:00,4,false,8/24/2022
+5257650916,Viola palustris L. var. brevipes (M.S. Baker) R.J. Davis,Brazilian,medium,Bushwick,6:00,1,true,11/17/2022
+5464965270,Calycophyllum candidissimum (Vahl) DC.,Mexican,cheap,SoHo,6:00,2,false,11/23/2022
+1849811431,Sagittaria teres S. Watson,Moroccan,cheap,SoHo,6:00,1,false,8/10/2022
+8944654026,Silene sargentii S. Watson,Ethiopian,cheap,Nolita,6:00,1,true,2/20/2023
+6745890070,Gaillardia pinnatifida Torr.,Chinese,medium,Nolita,6:00,4,false,1/1/2023
+6083684307,Pennisetum pedicellatum Trin.,Moroccan,cheap,Greenpoint,6:00,5,false,3/30/2022
+0474043886,Acarospora nodulosa (Dufour) Hue,Chinese,medium,DUMBO,6:00,4,false,4/27/2022
+3643656556,Salix caprea L.,Moroccan,expensive,Red Hook,6:00,4,true,11/23/2022
+3595867181,Saussurea americana D.C. Eaton,Chinese,expensive,SoHo,6:00,5,false,4/10/2022
+4310964346,Balsamorhiza hookeri (Hook.) Nutt. var. lagocephala (Sharp) Cronquist,Moroccan,cheap,Tribeca,6:00,1,false,8/22/2022
+4856642340,Mitella ovalis Greene,Indian,cheap,Fort Greene,6:00,2,true,11/15/2022
+3329617004,Olea europaea L. ssp. cuspidata (Wall. ex G. Don) Ciferri,Italian,medium,Greenpoint,6:00,3,true,10/20/2022
+8802159408,Brasiliopuntia (K. Schum.) A. Berger,Turkish,cheap,Vinegar Hill,6:00,4,false,10/30/2022
+5783919411,Eriogonum ursinum S. Watson var. ursinum,Indian,expensive,Red Hook,6:00,2,false,9/28/2022
+0376927208,Pouzolzia zeylanica (L.) Benn.,Brazilian,medium,Red Hook,6:00,1,true,5/14/2022
+8254872996,Caloplaca urceolata de Lesd.,Greek,expensive,Fort Greene,6:00,5,false,4/17/2022
+7980396936,Cyperus manimae Kunth,Vietnamese,expensive,Bushwick,6:00,2,true,4/22/2022
+4553287803,Vriesea macrostachya (Bello) Mez,Brazilian,medium,Cobble Hill,6:00,4,true,4/8/2022
+1320004490,Panicum psilopodium Trin.,Turkish,medium,Boerum HillCarroll Gardens,6:00,3,true,6/13/2022
+4634704277,Rosa woodsii Lindl.,Italian,cheap,Cobble Hill,6:00,2,true,3/16/2022
+3789291943,Ranunculus eastwoodianus L.D. Benson,Vietnamese,medium,Nolita,6:00,4,false,4/12/2022
+1148942831,Arthonia pyrrhuliza Nyl.,Japanese,expensive,Greenpoint,6:00,5,false,6/4/2022
+8774575759,Rhynchospora fascicularis (Michx.) Vahl var. fascicularis,Ethiopian,expensive,Boerum HillCarroll Gardens,6:00,3,false,9/15/2022
+0177630310,Stereophyllum Mitt.,Brazilian,expensive,SoHo,6:00,3,false,1/31/2023
+0573090475,Physalis latiphysa Waterf.,Ethiopian,cheap,Cobble Hill,6:00,3,false,5/30/2022
+8182425360,Polygonum fowleri B.L. Rob.,Italian,expensive,Boerum HillCarroll Gardens,6:00,4,true,7/1/2022
+4994136939,Maclura pomifera (Raf.) C.K. Schneid.,French,medium,Fort Greene,6:00,3,false,5/11/2022
+5353566750,Dionaea Ellis,Indian,cheap,Fort Greene,6:00,4,false,8/9/2022
+0136738745,Penstemon labrosus (A. Gray) Hook. f.,Greek,expensive,Boerum HillCarroll Gardens,6:00,5,true,9/20/2022
+1833754956,Phippsia concinna (Th. Fr.) Lindeberg,Japanese,medium,Red Hook,6:00,2,true,8/15/2022
+4560468451,Eriastrum luteum (Benth.) H. Mason,Mexican,cheap,Bushwick,6:00,2,false,5/21/2022
+5366076501,Barbella pendula (Sull.) Fleisch.,Indian,medium,Fort Greene,6:00,4,true,11/18/2022
+5405266353,Petasites frigidus (L.) Fr. var. palmatus (Aiton) Cronquist,Brazilian,cheap,Cobble Hill,6:00,5,true,2/12/2023
+8810697197,Heterodraba unilateralis (M.E. Jones) Greene,Brazilian,cheap,Vinegar Hill,6:00,2,true,3/8/2022
+1956744487,Capparis L.,Spanish,cheap,Tribeca,6:00,2,true,10/1/2022
+1320616178,Carex scoparia Schkuhr ex Willd. var. tessellata Fernald & Wiegand,Chinese,cheap,Greenpoint,6:00,3,false,9/24/2022
+3508258610,Paspalum unispicatum (Scribn. & Merr.) Nash,Brazilian,cheap,Cobble Hill,6:00,2,true,3/15/2022
+4763714481,Adenanthera L.,Brazilian,cheap,Nolita,6:00,4,true,4/1/2022
+8318717473,Ipomopsis tenuituba (Rydb.) V.E. Grant,Vietnamese,medium,Williamsburg,6:00,5,false,6/13/2022
+9724629163,Clarkia similis F.H. Lewis & Ernst,Italian,cheap,Boerum HillCarroll Gardens,6:00,2,false,1/13/2023
+9154113911,Digitalis L.,Mexican,medium,Fort Greene,6:00,2,true,2/11/2023
+6854630215,Cyrtandra propinqua Forbes,French,medium,Bushwick,6:00,2,false,10/18/2022
+0873142004,Astragalus misellus S. Watson,Japanese,cheap,Fort Greene,6:00,3,false,11/17/2022
+0059427566,Astragalus calycosus Torr. ex S. Watson var. scaposus (A. Gray) M.E. Jones,Italian,medium,Bushwick,6:00,4,true,6/12/2022
+1278521747,Astragalus oocarpus A. Gray,Vietnamese,cheap,Williamsburg,6:00,3,true,1/19/2023
+4208694734,Acacia retusa (Jacq.) Howard,Moroccan,medium,Cobble Hill,6:00,3,true,12/11/2022
+6924330010,Lantana insularis Moldenke,Vietnamese,medium,Nolita,6:00,2,false,2/24/2023
+6196404830,Salix purpurea L.,Thai,expensive,Vinegar Hill,6:00,3,false,3/22/2022
+0993328210,Agrostis blasdalei Hitchc.,Italian,cheap,Tribeca,6:00,5,true,10/29/2022
+9624736162,Narthecium Huds.,Lebanese,cheap,Greenpoint,6:00,2,true,1/11/2023
+4897933080,Ionactis stenomeres (A. Gray) Greene,French,expensive,Boerum HillCarroll Gardens,6:00,1,false,10/17/2022
+2696085374,Ixora thwaitesii Hook. f.,Spanish,medium,Vinegar Hill,6:00,1,false,6/12/2022
+1854132040,Poa unilateralis Scribn.,Indian,expensive,Bushwick,6:00,4,false,8/3/2022
+2463807032,Coreopsis californica (Nutt.) H. Sharsm. var. newberryi (A. Gray) E.B. Sm.,Lebanese,expensive,DUMBO,6:00,2,true,11/27/2022
+6654030036,Lesquerella kingii S. Watson ssp. kingii var. kingii,French,expensive,DUMBO,6:00,5,false,1/17/2023
+0180338722,Agoseris heterophylla (Nutt.) Greene var. heterophylla,Spanish,cheap,Williamsburg,6:00,3,false,5/3/2022
+5903528112,Physalis virginiana Mill. var. virginiana,Korean,expensive,Vinegar Hill,6:00,5,false,8/9/2022
+0852580533,Lipochaeta venosa Sherff,Korean,expensive,Cobble Hill,6:00,1,false,11/11/2022
+6264956198,Dalea scandens (Mill.) R.T. Clausen,Thai,cheap,Fort Greene,6:00,4,false,7/19/2022
+9459682456,Synthyris missurica (Raf.) Pennell ssp. missurica,Greek,medium,SoHo,6:00,5,false,8/7/2022
+9008303213,Eragrostis curvula (Schrad.) Nees,Vietnamese,cheap,Nolita,6:00,5,true,6/6/2022
+7702514833,Potamogeton ×saxonicus Hagstr.,Mexican,cheap,Nolita,6:00,4,false,2/12/2023
+3235573062,Setaria sphacelata (Schumach.) Stapf & C.E. Hubb. ex M.B. Moss var. splendida (Stapf) Clayton,Vietnamese,expensive,Boerum HillCarroll Gardens,6:00,4,false,7/16/2022
+5925146506,Pellaea glabella Mett. ex Kuhn ssp. occidentalis (E.E. Nelson) Windham,French,cheap,Tribeca,6:00,3,false,5/16/2022
+7008868987,Ficus drupacea Thunb.,Spanish,expensive,Vinegar Hill,6:00,5,false,3/7/2022
+5418203703,Sphagnum recurvum P. Beauv.,Turkish,cheap,Greenpoint,6:00,1,false,9/13/2022
+1985581612,Chaetopappa asteroides Nutt. ex DC.,Spanish,medium,Vinegar Hill,6:00,1,false,3/23/2022
+6767220566,Ipomoea purga (Wender.) Hayne,Korean,medium,Greenpoint,6:00,3,true,6/5/2022
+7895512757,Tricyrtis Wall.,Spanish,expensive,Cobble Hill,6:00,4,true,1/8/2023
+6238323728,Juncus interior Wiegand var. neomexicanus (Wiegand) F.J. Herm.,Spanish,expensive,Nolita,6:00,3,false,8/25/2022
+5254157623,Caloplaca intermedia (de Lesd.) Zahlbr.,Korean,cheap,Boerum HillCarroll Gardens,6:00,3,true,2/16/2023
+4404506775,Carica monoica Desf.,Thai,expensive,Williamsburg,6:00,1,true,10/28/2022
+2809566682,Cerastium beeringianum Cham. & Schltdl. ssp. beeringianum var. beeringianum,Spanish,cheap,DUMBO,6:00,1,false,10/14/2022
+4947645172,Crataegus ×brevipes Peck (pro sp.),Korean,medium,Red Hook,6:00,5,true,4/24/2022
+1920093761,Liatris elegans (Walter) Michx. var. bridgesii Mayfield,Moroccan,medium,Cobble Hill,6:00,4,true,9/24/2022
+8961681532,Eugenia xerophytica Britton,Greek,cheap,Greenpoint,6:00,1,true,1/15/2023
+1263575501,Tortula inermis (Brid.) Mont.,Japanese,expensive,Nolita,6:00,4,true,7/20/2022
+4242534183,Zigadenus nuttallii (A. Gray) S. Watson,Brazilian,medium,Tribeca,6:00,1,false,5/24/2022
+4514454737,Trifolium israeliticum Zohary & Katzn.,Vietnamese,cheap,Greenpoint,6:00,2,true,8/16/2022
+9911663752,"Thelesperma burridgeanum (Regel, Korn. & Rach.) S.F. Blake",Indian,cheap,Cobble Hill,6:00,1,true,9/25/2022
+8232497548,Boltonia L'Hér.,Italian,cheap,DUMBO,6:00,2,false,6/17/2022
+7236877492,Sagina apetala Ard.,Indian,expensive,Cobble Hill,6:00,1,false,6/28/2022
+0242938361,Proboscidea parviflora (Wooton) Wooton & Standl. ssp. parviflora var. parviflora,Spanish,expensive,Boerum HillCarroll Gardens,6:00,1,false,5/6/2022
+6578612688,Mycocalicium subtile (Pers.) Szat.,Turkish,cheap,Bushwick,6:00,5,false,8/23/2022
+7496198692,Carex spicata Huds.,Greek,medium,Bushwick,6:00,2,false,9/22/2022
+3115182465,Gilia latiflora (A. Gray) A. Gray ssp. cuyamensis A.D. Grant & V.E. Grant,Lebanese,cheap,SoHo,6:00,3,false,8/14/2022
+8109701426,Catinaria atropurpurea (Schaerer) Vezda & Poelt,Italian,medium,Tribeca,6:00,5,false,4/10/2022
+2220064603,Bolboschoenus maritimus (L.) Palla,Turkish,medium,Boerum HillCarroll Gardens,6:00,4,true,3/8/2022
+3159790851,Angelonia salicariifolia Humb. & Bonpl.,Korean,medium,Tribeca,6:00,1,true,6/21/2022
+2429693100,Keckiella antirrhinoides (Benth.) Straw,Greek,cheap,Williamsburg,6:00,2,true,1/12/2023
+4916389697,Gymnosteris Greene,Vietnamese,expensive,Boerum HillCarroll Gardens,6:00,5,false,8/31/2022
+8918408153,Brickellia eupatorioides (L.) Shinners var. eupatorioides,Chinese,cheap,Nolita,6:00,5,false,1/14/2023
+1536083100,Caloplaca ferruginea (Huds.) Th. Fr.,Moroccan,cheap,Red Hook,6:00,3,false,3/16/2022
+6054772120,Giliastrum rigidulum (Benth.) Rydb.,Italian,cheap,Bushwick,6:00,2,false,8/22/2022
+4541458322,Artemisia macrobotrys Ledeb.,Moroccan,expensive,Cobble Hill,6:00,3,true,1/29/2023
+8222207946,Lathyrus lanszwertii Kellogg var. lanszwertii,Korean,medium,Cobble Hill,6:00,5,true,12/31/2022
+6817153417,Oxytropis besseyi (Rydb.) Blank. var. fallax Barneby,Chinese,expensive,Williamsburg,6:00,3,true,12/31/2022
+1157427723,Ranunculus gormanii Greene,Mexican,cheap,Greenpoint,6:00,5,false,10/7/2022
+3419207085,Ilex verticillata (L.) A. Gray,Ethiopian,cheap,SoHo,6:00,5,false,7/16/2022
+5559452459,Eriogonum kennedyi Porter ex S. Watson var. alpigenum Munz & I.M. Johnst.,Lebanese,medium,Greenpoint,6:00,1,true,10/25/2022
+4449878779,Ranunculus ambigens S. Watson,Indian,expensive,Red Hook,6:00,1,true,5/26/2022
+5210169723,Agalinis caddoensis Pennell,Chinese,cheap,Greenpoint,6:00,5,false,7/26/2022
+0672121883,Artemisia pycnocephala (Less.) DC.,Turkish,expensive,Bushwick,6:00,2,false,4/16/2022
+9609382754,Desmodium sandwicense E. Mey.,Brazilian,cheap,Red Hook,6:00,2,true,1/20/2023
+9322787589,Allium lemmonii S. Watson,Thai,medium,Red Hook,6:00,3,false,2/3/2023
+4642576975,Codariocalyx gyroides (Roxb. ex Link) Hassk.,Ethiopian,medium,Williamsburg,6:00,3,true,9/19/2022
+9490926973,Manfreda Salisb.,Chinese,medium,Fort Greene,6:00,1,false,5/10/2022
+0313797838,Castanea mollissima Blume,Ethiopian,medium,Boerum HillCarroll Gardens,6:00,1,true,10/10/2022
+4890008969,Arachis L.,Mexican,cheap,Greenpoint,6:00,5,true,7/24/2022
+3612034154,"Piptochaetium fuscum (Steud.) Barkworh, Ciald. & Gandhi",Chinese,cheap,Cobble Hill,6:00,2,true,12/24/2022
+8894767205,Rhododendron ×bakeri (Lemmon & McKay) Hume (pro sp.),Moroccan,cheap,Red Hook,6:00,5,false,2/8/2023
+5873252874,Berlandiera betonicifolia (Hook.) Small,Korean,medium,Fort Greene,6:00,1,true,10/14/2022
+3239832615,Muhlenbergia torreyi (Kunth) Hitchc. ex Bush,Korean,cheap,Vinegar Hill,6:00,4,true,4/28/2022
+4310189350,Verbesina nana (A. Gray) B.L. Rob. & Greenm.,Chinese,cheap,SoHo,6:00,5,true,11/27/2022
+9129538858,Arnica chamissonis Less. ssp. foliosa (Nutt.) Maguire var. maguirei (A. Nelson) Maguire,Thai,cheap,SoHo,6:00,1,true,9/29/2022
+6905919829,Dudleya lanceolata (Nutt.) Britton & Rose,Turkish,expensive,Boerum HillCarroll Gardens,6:00,1,false,11/6/2022
+6568059595,Acacia constricta Benth.,Chinese,cheap,Red Hook,6:00,4,true,7/8/2022
+5795415820,Suksdorfia A. Gray,Korean,expensive,Cobble Hill,6:00,3,false,4/8/2022
+0885614593,Pyrenula citriformis R.C. Harris,Chinese,medium,Tribeca,6:00,4,false,9/4/2022
+7592843161,Pectocarya linearis (Ruiz & Pav.) DC. ssp. ferocula (I.M. Johnst.) Thorne,Korean,cheap,Vinegar Hill,6:00,4,false,10/19/2022
+0082161445,Dryopetalon A. Gray,Brazilian,expensive,Cobble Hill,6:00,5,true,5/25/2022
+9918528729,Deutzia ×magnifica (Lem.) Rehder,Indian,cheap,SoHo,6:00,3,false,7/23/2022
+9114156172,Ditrichum montanum Leiberg,Greek,cheap,DUMBO,6:00,5,false,3/26/2022
+8322833504,Leymus simplex (Scribn. & T.A. Williams) D.R. Dewey,Moroccan,cheap,Vinegar Hill,6:00,2,false,3/9/2022
+2517217971,Orphniospora moriopsis (A. Massal.) D. Hawksw.,Thai,medium,Tribeca,6:00,1,false,3/16/2022
+9233245152,Tristagma uniflorum (Lindl.) Traub,Turkish,expensive,Fort Greene,6:00,1,true,12/20/2022
+3830900082,Echinochloa crus-pavonis (Kunth) Schult.,Vietnamese,medium,Boerum HillCarroll Gardens,6:00,3,false,7/21/2022
+5959279355,Lupinus littoralis Douglas,Turkish,expensive,Williamsburg,6:00,2,true,2/16/2023
+9890904950,Chorisia Kunth,Thai,expensive,Boerum HillCarroll Gardens,6:00,5,true,5/7/2022
+8288046894,Blechum P. Br.,Indian,medium,Red Hook,6:00,3,false,9/21/2022
+4804173447,Pontederia L.,Japanese,medium,Cobble Hill,6:00,3,false,10/9/2022
+9087506058,Stigmaphyllon diversifolium (Kunth) A. Juss.,Turkish,cheap,Nolita,6:00,4,true,7/9/2022
+7991538753,Lindera Thunb.,Japanese,medium,Williamsburg,6:00,3,false,3/10/2022
+6508384805,Quercus ×ashei Trel.,Spanish,cheap,SoHo,6:00,5,false,6/22/2022
+8514896733,Arthopyrenia A. Massal.,Turkish,expensive,SoHo,6:00,1,false,4/20/2022
+3077776804,Coprosma ochracea W.R.B. Oliv.,Korean,medium,SoHo,6:00,2,false,1/10/2023
+3823609726,Masonhalea richardsonii (Hook.) Karnefelt,Spanish,expensive,Fort Greene,6:00,5,true,2/3/2023
+8717729335,Polyblastia hyperborea Th. Fr.,Turkish,cheap,Greenpoint,6:00,3,true,5/15/2022
+9093918397,Eucnide rupestris (Baill.) H.J. Thomp. & Ernst,Spanish,cheap,Bushwick,6:00,5,true,4/14/2022
+9779453911,Stanleya tomentosa Parry var. tomentosa,Indian,cheap,Williamsburg,6:00,1,false,1/28/2023
+1781804273,Verbascum ×pterocaulon Franch.,Chinese,medium,Tribeca,6:00,2,true,6/30/2022
+0400490587,Neea Ruiz & Pav.,Vietnamese,cheap,Red Hook,6:00,1,true,3/2/2022
+9802218782,Carex pelocarpa F.J. Herm.,Chinese,cheap,Bushwick,6:00,3,false,10/20/2022
+7613402169,Arabis koehleri Howell var. stipitata Rollins,Japanese,medium,Bushwick,6:00,5,true,4/22/2022
+6382721387,Pseudephemerum (Lindb.) Loeske,Lebanese,cheap,DUMBO,6:00,3,false,2/16/2023
+0305637215,Pluchea rosea Godfrey,Mexican,expensive,Nolita,6:00,1,true,6/5/2022
+3269301782,"Heuchera americana L. var. hirsuticaulis (Wheelock) Rosend., Butters & Lakela",Brazilian,cheap,Vinegar Hill,6:00,3,true,6/29/2022
+4887551401,Mertensia maritima (L.) Gray,Italian,cheap,Tribeca,6:00,4,true,10/12/2022
+1413964427,Bromus briziformis Fisch. & C.A. Mey.,Brazilian,expensive,DUMBO,6:00,2,true,2/18/2023
+6780246662,Sedum obtusatum A. Gray ssp. retusum (Rose) R.T. Clausen,Ethiopian,cheap,Williamsburg,6:00,1,true,11/14/2022
+4401460995,Buddleja marrubiifolia Benth.,Brazilian,cheap,Vinegar Hill,6:00,3,true,7/30/2022
+7690326013,Hydrophyllum fendleri (A. Gray) A. Heller,Indian,cheap,Nolita,6:00,1,false,9/24/2022
+1676092986,Symphyotrichum novi-belgii (L.) G.L. Nesom var. novi-belgii,Ethiopian,medium,SoHo,6:00,3,false,11/26/2022
+3104491283,Eschscholzia caespitosa Benth.,Vietnamese,medium,Red Hook,6:00,3,true,7/10/2022
+3007925746,Eriosorus hispidulus (Kunze) Vareschi,Indian,medium,Red Hook,6:00,1,true,2/14/2023
+3802531663,Chelone L.,Turkish,medium,Williamsburg,6:00,5,false,11/27/2022
+6498796928,Cornus sericea L. ssp. sericea,Ethiopian,expensive,Fort Greene,6:00,4,false,7/13/2022
+9225183151,Trifolium glanduliferum Boiss.,Chinese,expensive,Tribeca,6:00,4,false,12/29/2022
+7015556758,Helodium blandowii (F. Weber & D. Mohr) Warnst. var. blandowii,Greek,cheap,Williamsburg,6:00,5,true,10/31/2022
+4611777790,Rubus bifrons Vest ex Tratt.,Chinese,cheap,Nolita,6:00,1,true,7/15/2022
+3838881370,Atriplex serenana A. Nelson,Brazilian,cheap,Red Hook,6:00,5,false,8/12/2022
+3378007842,Ceratodon Brid.,Moroccan,cheap,Cobble Hill,6:00,4,false,11/16/2022
+3715666811,Securidaca diversifolia (L.) S.F. Blake,Mexican,expensive,Bushwick,6:00,1,true,4/28/2022
+0819558222,Eucalyptus obliqua L'Her.,Thai,expensive,Williamsburg,6:00,3,true,6/19/2022
+5340632733,Pediomelum palmeri (Ockendon) J.W. Grimes,Turkish,expensive,Bushwick,6:00,3,false,4/19/2022
+5332195702,Clarkia mildrediae (A. Heller) F.H. Lewis & M.E. Lewis ssp. mildrediae,Chinese,medium,Fort Greene,6:00,2,true,1/18/2023
+6014023976,Helianthus debilis Nutt. ssp. vestitus (E.E. Watson) Heiser,Spanish,expensive,Vinegar Hill,6:00,5,false,3/15/2022
+3169184377,Navarretia eriocephala H. Mason,Indian,cheap,DUMBO,6:00,5,true,2/9/2023
+1822759382,Erysimum capitatum (Douglas ex Hook.) Greene var. lompocense (G. Rossb.) Kartesz,Italian,expensive,Nolita,6:00,2,false,11/10/2022
+1430811889,Potentilla macounii Rydb.,Turkish,cheap,Bushwick,6:00,4,true,12/14/2022
+7447529125,Crassula ovata (Mill.) Druce,Indian,expensive,Vinegar Hill,6:00,1,false,6/27/2022
+4857106116,Aquilegia coerulea James var. ochroleuca Hook.,Thai,medium,Nolita,6:00,1,false,11/5/2022
+4220632107,Agave utahensis Engelm. var. nevadensis Engelm. ex Greenm. & Roush,Lebanese,expensive,Fort Greene,6:00,2,true,6/10/2022
+0389521930,Penstemon laevigatus Aiton,Moroccan,medium,Nolita,6:00,2,false,8/21/2022
+1059063573,Sanicula purpurea H. St. John & Hosaka,Thai,cheap,Cobble Hill,6:00,4,false,4/26/2022
+5500543652,Physaria dornii Lichvar,Turkish,expensive,Boerum HillCarroll Gardens,6:00,4,false,11/21/2022
+5971398067,Arctostaphylos tomentosa (Pursh) Lindl. ssp. crustacea (Eastw.) P.V. Wells,Japanese,expensive,Bushwick,6:00,3,false,12/1/2022
+8406159464,Melastoma sanguineum Sims,Lebanese,cheap,Red Hook,6:00,4,true,7/28/2022
+2310029858,Valerianella florifera Shinners,Thai,cheap,Boerum HillCarroll Gardens,6:00,2,true,4/18/2022
+7245703507,Gouania polygama (Jacq.) Urb.,Spanish,medium,Williamsburg,6:00,4,true,12/26/2022
+4171603285,Plectranthus ciliatus E. Mey.,Chinese,medium,Tribeca,6:00,2,true,1/15/2023
+2243571242,Stachys latidens Small ex Britton,Vietnamese,medium,Boerum HillCarroll Gardens,6:00,5,true,7/2/2022
+4885104556,Salix irrorata Andersson,Moroccan,medium,Tribeca,6:00,3,false,9/4/2022
+3872037471,Parietaria praetermissa Hinton,Korean,cheap,Red Hook,6:00,1,true,7/24/2022
+6459087806,Phacelia ramosissima Douglas ex Lehm. var. latifolia (Torr.) Cronquist,Chinese,medium,Nolita,6:00,4,true,10/23/2022
+7884624680,Phyllostegia renovans W.L. Wagner,Spanish,cheap,Nolita,6:00,1,false,11/17/2022
+6540646518,Idahoa A. Nelson & J.F. Macbr.,Mexican,cheap,Bushwick,6:00,4,false,3/9/2022
+2119925577,Ceanothus ×rugosus Greene (pro sp.),Ethiopian,medium,Fort Greene,6:00,2,true,9/9/2022
+8352643398,Esenbeckia berlandieri Baill. ex Hemsl.,Chinese,medium,Fort Greene,6:00,5,true,9/27/2022
+4649228190,Apocynum androsaemifolium L.,Korean,expensive,Bushwick,6:00,2,false,2/13/2023
+7381092697,Juncus duranii Ewan,Korean,cheap,Bushwick,6:00,4,true,6/14/2022
+5252146020,Sphaeralcea coccinea (Nutt.) Rydb.,Spanish,medium,SoHo,6:00,4,false,3/28/2022
+8424220544,Clermontia waimeae Rock,Greek,expensive,Nolita,6:00,5,false,6/4/2022
+8947812234,Orthotrichum tenellum Bruch ex Brid.,Mexican,cheap,Vinegar Hill,6:00,3,true,4/3/2022
+4055243820,Lomatium donnellii (J.M. Coult. & Rose) J.M. Coult. & Rose,Greek,expensive,Greenpoint,6:00,5,false,2/13/2023
+6858236554,Korthalsella remyana v. Tiegh.,Italian,expensive,SoHo,6:00,4,true,4/22/2022
+9378785948,Angelica hendersonii J.M. Coult. & Rose,Japanese,cheap,Cobble Hill,6:00,5,false,6/12/2022
+9018570621,Cyanea macrostegia Hillebr. ssp. gibsonii (Hillebr.) Lammers,Spanish,medium,Fort Greene,6:00,2,false,10/26/2022
+3252671638,Erigeron grandiflorus Hook. ssp. arcticus A.E. Porsild,French,medium,Nolita,6:00,2,false,9/3/2022
+0177245808,Prockia crucis P. Br. ex L.,Turkish,expensive,SoHo,6:00,3,false,9/26/2022
+1585180998,Amsinckia lycopsoides Lehm.,Moroccan,expensive,SoHo,6:00,3,true,1/20/2023
+6447522340,Leucodon brachypus Brid. var. brachypus,Vietnamese,expensive,DUMBO,6:00,1,true,12/24/2022
+6076887389,Placynthium nigrum (Huds.) A. Gray,Thai,medium,Vinegar Hill,6:00,3,false,11/30/2022
+7020168817,Amelanchier sanguinea (Pursh) DC. var. gaspensis Wiegand,Greek,medium,Greenpoint,6:00,5,true,4/16/2022
+8190704397,Artemisia cina O. Berg & C.F. Schmidt,Ethiopian,medium,Williamsburg,6:00,2,false,7/2/2022
+5253516069,Syringa reticulata (Blume) H. Hara ssp. amurensis (Rupr.) P.S. Greene & M.C. Chang,Vietnamese,expensive,Cobble Hill,6:00,1,false,5/16/2022
+2648546138,Matelea maritima (Jacq.) Woodson,Spanish,expensive,Red Hook,6:00,2,true,4/3/2022
+3623551872,Ulota hutchinsiae (Sm.) Hammar var. hutchinsiae,Thai,medium,Bushwick,6:00,4,true,6/3/2022
+4795703612,Hibiscus L.,Moroccan,cheap,Cobble Hill,6:00,5,false,9/11/2022
+2288724986,Atriplex watsonii A. Nelson,Turkish,medium,Fort Greene,6:00,1,true,2/10/2023
+5550782812,Lepyrodiclis Fenzl,Spanish,cheap,Bushwick,6:00,3,true,7/29/2022
+3078298787,Habenaria amalfitana Lehm. & Kränzlin,Ethiopian,cheap,SoHo,6:00,2,false,10/13/2022
+1537899449,Asplenium ×ebenoides R.R. Scott (pro sp.),Turkish,cheap,Tribeca,6:00,2,true,12/25/2022
+6566458123,Thaumatococcus Benth.,Lebanese,medium,DUMBO,6:00,4,false,1/19/2023
+9328212677,Campylopus atrovirens De Not.,Lebanese,medium,Greenpoint,6:00,4,false,5/25/2022
+7256079516,Astragalus desperatus M.E. Jones,Turkish,expensive,Boerum HillCarroll Gardens,6:00,5,false,6/4/2022
+3875066731,Phacelia ixodes Kellogg,Lebanese,cheap,Vinegar Hill,6:00,3,false,11/11/2022
+9854666026,Alvaradoa amorphoides Liebm.,Ethiopian,cheap,Vinegar Hill,6:00,3,false,8/4/2022
+6124380900,Alnus Mill.,Brazilian,expensive,SoHo,6:00,2,true,2/25/2023
+6417819353,Polygala myrtifolia L.,Mexican,cheap,Red Hook,6:00,4,false,12/20/2022
+7449119846,Chione DC.,Greek,expensive,DUMBO,6:00,5,false,3/8/2022
+2174312719,Juncus brachycephalus (Engelm.) Buchenau,Thai,cheap,Tribeca,6:00,4,true,12/27/2022
+5106997526,Convallaria majalis L.,Japanese,medium,Red Hook,6:00,3,true,5/15/2022
+0563491442,Kiaeria starkei (F. Weber & D. Mohr) I. Hagen,French,medium,Red Hook,6:00,1,true,8/9/2022
+5954181195,Lessingia nana A. Gray,Spanish,expensive,Boerum HillCarroll Gardens,6:00,5,true,6/25/2022
+9361435841,Heliotropium pringlei B.L. Rob.,Mexican,medium,Fort Greene,6:00,5,false,7/16/2022
+7769347858,Calycera balsamitifolia A. Rich.,Thai,expensive,Nolita,6:00,1,false,5/8/2022
+3351877625,Gilia leptantha Parish ssp. pinetorum A.D. Grant & V.E. Grant,Brazilian,expensive,Bushwick,6:00,5,false,6/20/2022
+8545181086,Lepidium montanum Nutt. var. wyomingense (C.L. Hitchc.) C.L. Hitchc.,Italian,medium,Tribeca,6:00,3,false,9/21/2022
+4694073974,Juglans major (Torr.) A. Heller,Spanish,cheap,Greenpoint,6:00,5,true,7/27/2022
+8237721209,Cirsium ×vancouverense J.W. Moore & Frankton,Brazilian,cheap,Tribeca,6:00,3,true,3/1/2022
+3050475129,Clarkia pulchella Pursh,Thai,cheap,Vinegar Hill,6:00,4,true,3/26/2022
+2782573233,Quercus durata Jeps.,Brazilian,medium,Nolita,6:00,1,false,5/5/2022
+4684055094,Ulota megalospora Vent.,Ethiopian,expensive,Fort Greene,6:00,2,false,6/10/2022
+8045252367,Chamaecrista nictitans (L.) Moench ssp. patellaria (DC. ex Collad.) Irwin & Barneby,Lebanese,expensive,DUMBO,6:00,2,false,4/26/2022
+1161162607,Pediocactus Britton & Rose,Lebanese,expensive,Nolita,6:00,2,false,12/19/2022
+4090712092,Mouriri Aubl.,Moroccan,cheap,Red Hook,6:00,2,true,4/26/2022
+8421613731,Ipomopsis ramosa Al Schneid. & Bregar,Lebanese,cheap,Tribeca,6:00,1,true,5/2/2022
+3518164570,Viola adunca Sm. var. adunca,Mexican,medium,Nolita,6:00,4,true,1/7/2023
+0230916317,Festuca groenlandica (Schol.) Fred.,French,medium,Bushwick,6:00,1,false,6/26/2022
+0962638358,Astilbe Buch.-Ham. ex D. Don,Thai,medium,SoHo,6:00,4,true,2/7/2023
+9597347946,Clarkia speciosa F.H. Lewis & M.E. Lewis,Greek,expensive,DUMBO,6:00,1,true,10/27/2022
+0094675147,Rhododendron viscosum (L.) Torr.,Turkish,cheap,Bushwick,6:00,1,false,1/12/2023
+2482479797,Philodendron Schott,Vietnamese,expensive,Red Hook,6:00,4,true,12/7/2022
+9408357760,"Lecanora caulophylla (Tuck.) ?, ined.?",Ethiopian,expensive,Bushwick,6:00,2,false,12/10/2022
+8972790303,Salvia hierosolymitana Boiss.,Ethiopian,expensive,Tribeca,6:00,5,false,8/20/2022
+0396603181,Streptanthus fenestratus (Greene) J.T. Howell,Greek,medium,Cobble Hill,6:00,4,true,12/11/2022
+9626330317,Dicranum montanum Hedw.,Greek,expensive,Vinegar Hill,6:00,5,true,8/8/2022
+6713688357,Sloanea L.,Lebanese,expensive,Bushwick,6:00,2,false,6/9/2022
+8069042621,Penstemon ambiguus Torr. var. laevissimus (D.D. Keck) N.H. Holmgren,Lebanese,expensive,Cobble Hill,6:00,5,false,10/17/2022
+9481056589,Malacothrix fendleri A. Gray,Japanese,cheap,Boerum HillCarroll Gardens,6:00,1,true,3/10/2022
+8665954597,Roccella fimbriata Darbish.,Moroccan,medium,Tribeca,6:00,2,false,3/22/2022
+9983823462,×Lindsaeosoria W.H. Wagner,Korean,medium,Nolita,6:00,5,true,11/29/2022
+3190173354,Cordylanthus kingii S. Watson ssp. densiflorus T.I. Chuang & Heckard,Italian,expensive,Red Hook,6:00,4,true,5/21/2022
+4493557966,Stereocaulon symphycheilum Lamb,Chinese,expensive,Nolita,6:00,3,false,9/17/2022
+3879064393,Trifolium pannonicum Jacq.,Korean,expensive,Red Hook,6:00,5,false,3/2/2022
+2263376127,Geum triflorum Pursh,Indian,expensive,Greenpoint,6:00,4,false,8/15/2022
+2260621104,Stellaria littoralis Torr.,Moroccan,medium,Greenpoint,6:00,2,true,2/15/2023
+7314615756,Hartwrightia A. Gray ex S. Watson,Turkish,cheap,Cobble Hill,6:00,4,false,5/29/2022
+6405163202,Chamaecytisus supinus (L.) Link,Greek,expensive,Tribeca,6:00,2,true,7/23/2022
+1439116830,Polystichum aleuticum C. Chr.,Indian,cheap,Fort Greene,6:00,2,false,1/18/2023
+4799385690,Usnea strigosa (Ach.) Eaton ssp. rubiginea (Michx.) I. Tav.,Lebanese,medium,Cobble Hill,6:00,1,true,2/9/2023
+4483697765,Cyrtandra macraei A. Gray,Turkish,medium,Williamsburg,6:00,4,true,11/12/2022
+6742951060,Mammillaria lasiacantha Engelm.,Mexican,cheap,SoHo,6:00,3,false,12/7/2022
+3913690182,Clarkia arcuata (Kellogg) A. Nelson & J.F. Macbr.,Greek,medium,DUMBO,6:00,3,true,10/6/2022
+6523789357,Saccharum bengalense Retz.,Korean,expensive,Red Hook,6:00,1,true,7/21/2022
+3014338672,Crataegus aestivalis (Walter) Torr. & A. Gray,Turkish,medium,Tribeca,6:00,3,false,1/11/2023
+1118598717,Horkelia fusca Lindl. ssp. capitata (Lindl.) D.D. Keck,Brazilian,cheap,Tribeca,6:00,4,false,1/6/2023
+3791410687,Justicia lanceolata (Chapm.) Small,Brazilian,expensive,Red Hook,6:00,3,false,5/28/2022
+4020986193,Astilbe japonica (C. Morren & Decne.) A. Gray,Brazilian,cheap,Williamsburg,6:00,2,true,12/19/2022
+8259598051,Poa ×limosa Scribn. & T.A. Williams (pro sp.),Korean,medium,Boerum HillCarroll Gardens,6:00,4,true,2/23/2023
+3511139260,Bromus anomalus Rupr. ex Fourn.,Japanese,cheap,Boerum HillCarroll Gardens,6:00,3,true,9/28/2022
+0366790714,Lupinus texensis Hook.,Moroccan,medium,Williamsburg,6:00,3,false,1/9/2023
+4415327796,Vernonia fasciculata Michx. ssp. fasciculata,Lebanese,expensive,Fort Greene,6:00,4,true,5/25/2022
+6927599606,Lomatium cuspidatum Mathias & Constance,Chinese,medium,Cobble Hill,6:00,3,false,4/28/2022
+2742427562,Pyrola picta Sm.,Brazilian,medium,Tribeca,6:00,3,false,3/19/2022
+6601609420,Ranunculus L.,Japanese,cheap,Nolita,6:00,5,true,10/30/2022
+1715331354,Gilia brecciarum M.E. Jones ssp. neglecta A.D. Grant & V.E. Grant,Spanish,expensive,Fort Greene,6:00,4,true,12/12/2022
+8524251778,Yucca schidigera Roezl ex Ortgies,Korean,cheap,Cobble Hill,6:00,5,false,11/21/2022
+9505986106,Rhizocarpon atroflavescens Lynge,Lebanese,medium,Boerum HillCarroll Gardens,6:00,3,false,4/9/2022
+7994688012,Gilia tenuiflora Benth. ssp. amplifaucalis A.D. Grant & V.E. Grant,Spanish,expensive,Red Hook,6:00,2,false,12/19/2022
+9482044843,Nasturtium R. Br.,Indian,cheap,Red Hook,6:00,2,true,12/16/2022
+5675668314,Ophioglossum pendulum L. ssp. falcatum (C. Presl) R.T. Clausen,French,cheap,Red Hook,6:00,5,false,9/3/2022
+7064277891,Frangula betulifolia (Greene) V. Grub. ssp. obovata (Kearney & Peebles) Kartesz & Gandhi,Italian,expensive,Nolita,6:00,2,false,8/28/2022
+0123266254,Mertensia paniculata (Aiton) G. Don var. eastwoodiae (J.F. Macbr.) Hultén,Moroccan,cheap,DUMBO,6:00,2,true,6/3/2022
+8866108294,Luziola Juss.,Korean,medium,Cobble Hill,6:00,4,true,5/31/2022
+2186943247,Rousselia Gaudich.,Korean,expensive,Cobble Hill,6:00,2,false,5/14/2022
+9603654965,Quercus ×runcinata (A. DC.) Engelm.,Greek,medium,Cobble Hill,6:00,2,true,3/7/2022
+6007270319,Diospyros digyna Jacq.,Thai,expensive,Boerum HillCarroll Gardens,6:00,2,true,8/19/2022
+4190172901,Leavenworthia exigua Rollins var. lutea Rollins,French,cheap,DUMBO,6:00,3,false,12/28/2022
+3565495316,Phyllostegia bracteata Sherff,Lebanese,cheap,Fort Greene,6:00,3,true,9/26/2022
+7319760150,Castilleja caudata (Pennell) Rebr. var. caudata,Indian,expensive,Red Hook,6:00,2,false,7/18/2022
+4906262651,Justicia crassifolia (Chapm.) Chapm. ex Small,Italian,medium,Nolita,6:00,1,false,11/16/2022
+6848102237,Jatropha dioica Cerv. var. graminea McVaugh,Ethiopian,medium,SoHo,6:00,4,false,2/16/2023
+0391686461,Anemone quinquefolia L. var. quinquefolia,Indian,cheap,Boerum HillCarroll Gardens,6:00,2,false,1/21/2023
+8523760946,Smelowskia borealis (Greene) Drury & Rollins var. koliana (Gombócz) Drury & Rollins,French,cheap,Red Hook,6:00,2,true,5/16/2022
+8451350909,Lecanora viriduloflava de Lesd.,French,expensive,Tribeca,6:00,5,false,5/3/2022
+1669629643,Triphora rickettii Luer,Moroccan,expensive,Vinegar Hill,6:00,2,true,3/21/2022
+2841093018,Diervilla sessilifolia Buckley,French,cheap,DUMBO,6:00,4,true,11/8/2022
+8952728033,Astragalus reflexus Torr. & A. Gray,Greek,medium,Greenpoint,6:00,3,true,6/13/2022
+6163965841,Tetracoccus hallii Brandegee,Ethiopian,expensive,Fort Greene,6:00,3,true,5/9/2022
+0027561712,Cryptantha holoptera (A. Gray) J.F. Macbr.,Mexican,cheap,Fort Greene,6:00,5,false,11/28/2022
+6984499402,Lecidea peliaspis (Tuck.) Zahlbr.,Brazilian,cheap,Fort Greene,6:00,5,true,4/15/2022
+0834789663,Paspalum paniculatum L.,Lebanese,medium,Tribeca,6:00,2,true,9/19/2022
+1680172794,Sarcocornia utahensis (Tidestr.) A.J. Scott,Greek,medium,Cobble Hill,6:00,5,true,8/7/2022
+0099207427,Plagiobothrys glaber (A. Gray) I.M. Johnst.,Japanese,expensive,Bushwick,6:00,3,false,11/19/2022
+3426828472,Symphytum officinale L.,Japanese,medium,Bushwick,6:00,3,false,8/30/2022
+6553984638,Chenopodium macrospermum Hook. f. var. farinosum (S. Watson) J.T. Howell,Korean,medium,Fort Greene,6:00,3,true,4/15/2022
+1314017209,Cornus obliqua Raf.,Brazilian,medium,Tribeca,6:00,1,true,12/24/2022
+0205979629,Oryzopsis Michx.,Italian,medium,Red Hook,6:00,5,false,6/25/2022
+7029432649,Aquilegia coerulea James var. pinetorum (Tidestr.) Payson ex Kearney & Peebles,Ethiopian,medium,DUMBO,6:00,1,false,2/25/2023
+8596954163,Antennaria argentea Benth.,Indian,expensive,DUMBO,6:00,3,false,7/22/2022
+3554480177,Thelypodiopsis aurea (Eastw.) Rydb.,Vietnamese,expensive,Cobble Hill,6:00,3,true,11/4/2022
+5495749103,Caloplaca sinapisperma (Lam. & DC.) Maheu & A. Gillet,Indian,medium,Williamsburg,6:00,3,false,11/10/2022
+3899155467,Carex atlantica L.H. Bailey ssp. capillacea (L.H. Bailey) Reznicek,Ethiopian,expensive,Williamsburg,6:00,2,false,3/4/2022
+0893557226,Vesicarpa Rydb.,Moroccan,expensive,Boerum HillCarroll Gardens,6:00,5,true,2/5/2023
+5688914181,Dulichium arundinaceum (L.) Britton var. boreale Lepage,Vietnamese,expensive,DUMBO,6:00,1,true,11/19/2022
+3957902967,Nemastylis Nutt.,Indian,expensive,Greenpoint,6:00,2,true,5/8/2022
+1691948632,Cirsium canovirens (Rydb.) Petr.,Greek,medium,Bushwick,6:00,1,true,7/18/2022
+1766973353,Lewisia brachycalyx Engelm. ex A. Gray,Brazilian,cheap,SoHo,6:00,2,true,1/16/2023
+8305303446,Calyptranthes martorellii Alain,Italian,cheap,Cobble Hill,6:00,5,false,11/10/2022
+6401349034,Artemisia campestris L. ssp. borealis (Pall.) H.M. Hall & Clem. var. petiolata S.L. Welsh,Greek,medium,Bushwick,6:00,2,false,5/30/2022
+0936145668,Trichomanes minutum Blume,Lebanese,expensive,Cobble Hill,6:00,1,true,11/29/2022
+3513083459,Arctostaphylos pringlei Parry,Moroccan,expensive,DUMBO,6:00,5,true,9/12/2022
+3601669781,Paeonia lactiflora Pall.,Vietnamese,medium,Red Hook,6:00,1,false,5/19/2022
+2286369496,Xylopia aethiopica (Dunal) A. Rich.,Vietnamese,medium,Bushwick,6:00,3,false,5/21/2022
+8082020938,Bursera simaruba (L.) Sarg.,Brazilian,cheap,Nolita,6:00,5,true,5/11/2022
+8281037679,Elaphoglossum serpens Maxon & Morton ex Maxon,French,cheap,Tribeca,6:00,2,true,7/17/2022
+0971215073,Eriogonum foliosum S. Watson,Korean,expensive,Williamsburg,6:00,2,true,3/2/2022
+6342023972,Quisqualis indica L.,Korean,medium,Boerum HillCarroll Gardens,6:00,3,false,11/2/2022
+6807479638,Festuca hyperborea Holmen ex Frederiksen,Chinese,cheap,Boerum HillCarroll Gardens,6:00,5,false,9/16/2022
+6108132884,Artemisia kauaiensis (Skottsb.) Skottsb.,Moroccan,cheap,SoHo,6:00,5,true,12/1/2022
+7352066535,Astragalus eucosmus B.L. Rob.,Ethiopian,medium,Tribeca,6:00,4,false,1/10/2023
+3532922444,Hydrangea L.,Chinese,cheap,Tribeca,6:00,2,true,10/9/2022
+6679308429,Proboscidea parviflora (Wooton) Wooton & Standl. ssp. parviflora,Italian,medium,Greenpoint,6:00,5,false,4/29/2022
+2451119314,Bryum longisetum Bland. ex Schwägr.,Greek,medium,Cobble Hill,6:00,3,false,5/8/2022
+3024459146,Strophanthus DC.,French,expensive,Cobble Hill,6:00,4,false,8/25/2022
+3847692771,Phaeospora Hepp ex Stein,Japanese,expensive,Greenpoint,6:00,5,false,9/14/2022
+9678836920,"Heuchera americana L. var. hirsuticaulis (Wheelock) Rosend., Butters & Lakela",Korean,expensive,Bushwick,6:00,3,false,12/27/2022
